@@ -14,21 +14,22 @@ public class 게임매니저스크립 : MonoBehaviour {
         배너광고.Instance().숨기자();
         SceneManager.LoadScene("메인");
     }
+    public void 덴지방()
+    {
+        배너광고.Instance().숨기자();
+        SceneManager.LoadScene("덴지");
+    }
     public void 죠타로방()
     {
         배너광고.Instance().숨기자();
-        SceneManager.LoadScene("죠타로");
+        SceneManager.LoadScene("덴지");
     }
     public void 죠스케방()
     {
         배너광고.Instance().숨기자();
         SceneManager.LoadScene("죠스케");
     }
-    public void 죠셉방()
-    {
-        배너광고.Instance().숨기자();
-        SceneManager.LoadScene("죠셉");
-    }
+   
     public void 디오방()
     {
         배너광고.Instance().숨기자();

@@ -7,6 +7,8 @@ public class MainEnKo : MonoBehaviour
     public int 저장값 = 0;
     public Text 덴지버튼;
     public Text 마키마버튼;
+    public Text 아키버튼;
+    public Text 제목;
     public GameObject 왼쪽V표시;
     public GameObject 오른쪽V표시;
     public GameObject 언어창;
@@ -16,6 +18,7 @@ public class MainEnKo : MonoBehaviour
         if (PlayerPrefs.GetInt("EnKo") != 0)
         {
             덴지버튼.text = "Denji";
+            제목.text = "Chainsaw Man";
             저장값 = 1;
         }
     }
@@ -37,10 +40,14 @@ public class MainEnKo : MonoBehaviour
         if (저장값 == 0)
         {
             덴지버튼.text = "덴 지";
+            아키버튼.text = "아 키";
+            제목.text = "체인소 맨";
         }
         else
         {
             덴지버튼.text = "Denji";
+            아키버튼.text = "Aki";
+            제목.text = "Chainsaw Man";
         }
         PlayerPrefs.SetInt("EnKo", 저장값);
         언어창.SetActive(false);
