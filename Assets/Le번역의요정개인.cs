@@ -13,7 +13,7 @@ public class Le번역의요정개인: MonoBehaviour
         {
             케릭터이름.text = 케릭터이름영문;
         }
-
+        
 
     }
     // Start is called before the first frame update
@@ -21,10 +21,8 @@ public class Le번역의요정개인: MonoBehaviour
     {
         
     }
-
-    // Update is called once per frame
-    void Update()
+    public void 즐겨찾기()
     {
-        
+
     }
 }
