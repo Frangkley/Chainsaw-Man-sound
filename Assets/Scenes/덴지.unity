@@ -10702,6 +10702,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 90ec1f192ee0010489a0c832bcb9d825, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  "\uC218\uD37C\uB3D9\uAE30\uD654": 
   "\uB3D9\uAE30\uD654": 
   "\uCF00\uB9AD\uD130\uC774\uB984": {fileID: 2022828682}
   "\uC138\uC774\uBE0C\uC5D0\uB118\uACA8\uC904\uCF00\uB9AD\uD130\uC774\uB984": "\uB374\uC9C0"
@@ -12674,12 +12675,12 @@ GameObject:
   - component: {fileID: 1378957171}
   - component: {fileID: 1378957170}
   m_Layer: 5
-  m_Name: "\uC2E4\uD5D8\uC6A9"
+  m_Name: EMP
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1378957169
 RectTransform:
   m_ObjectHideFlags: 0
