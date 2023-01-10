@@ -488,6 +488,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   "\uB2EB\uC744\uAC70": {fileID: 0}
   "\uC5F4\uAC70": {fileID: 186484886}
+  "\uC628\uC624\uD504": 0
+  "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uBD80\uBAA8": {fileID: 0}
+  "\uC790\uAE30\uBC88\uD638": 0
 --- !u!95 &124349607
 Animator:
   serializedVersion: 4
@@ -2877,7 +2881,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1451357833
 Transform:
   m_ObjectHideFlags: 0
@@ -2905,6 +2909,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ba4b284631715b0419390fd852ed3105, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  "\uC990\uACA8\uCC3E\uAE30\uC800\uC7A5\uACF5\uAC04": save
+  "\uC138\uC774\uBE0C\uC774\uB984": "\uCF00\uB9AD\uD130"
 --- !u!1 &1479183346
 GameObject:
   m_ObjectHideFlags: 0
@@ -3604,6 +3610,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   "\uB2EB\uC744\uAC70": {fileID: 186484886}
   "\uC5F4\uAC70": {fileID: 0}
+  "\uC628\uC624\uD504": 0
+  "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uBD80\uBAA8": {fileID: 0}
+  "\uC790\uAE30\uBC88\uD638": 0
 --- !u!1 &1662935998
 GameObject:
   m_ObjectHideFlags: 0
