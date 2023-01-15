@@ -19,10 +19,10 @@ public class 게임매니저스크립 : MonoBehaviour {
         배너광고.Instance().숨기자();
         SceneManager.LoadScene("덴지");
     }
-    public void 죠타로방()
+    public void 아키방()
     {
         배너광고.Instance().숨기자();
-        SceneManager.LoadScene("덴지");
+        SceneManager.LoadScene("아키");
     }
     public void 죠스케방()
     {

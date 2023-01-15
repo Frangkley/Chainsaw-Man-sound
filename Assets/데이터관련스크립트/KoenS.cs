@@ -4,7 +4,9 @@ using UnityEngine;
 using UnityEngine.UI;
 public class KoenS : MonoBehaviour
 {
+    [TextArea]
     public string Ko;
+    [TextArea]
     public string En;
     public int 글씨크기 = 15;
     public Text 본인텍스트;

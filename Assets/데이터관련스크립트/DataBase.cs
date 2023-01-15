@@ -61,7 +61,12 @@ public class DataBase : MonoBehaviour
         if (File.Exists(즐겨찾기저장공간 + 세이브이름))
         {
             string 제이슨데이터 = File.ReadAllText(즐겨찾기저장공간 + 세이브이름);
+            Debug.Log(즐겨찾기저장공간 + 세이브이름);
             언어 = JsonUtility.FromJson<Detaj>(제이슨데이터);
+        }
+        else
+        {
+            저장하기();
         }
     
         //print(언어);

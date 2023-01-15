@@ -7,7 +7,8 @@ using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
 public class 슈퍼광고 : MonoBehaviour {
-
+    public string 현재이름;
+    public float 시간체크 = 15f;
     public int Bu = 1;
     public static 슈퍼광고 instance;
     public static 슈퍼광고 Instance()
@@ -26,6 +27,8 @@ public class 슈퍼광고 : MonoBehaviour {
         return instance;
     }
     private InterstitialAd interstitial;
+    const string rewardID = "ca-app-pub-8583528480029184/3062945328";
+    private RewardedAd rewardedAd;
     //private string adUnitId = "ca-app-pub-8583528480029184/3007565273";
     // Use this for initialization
     void Awake()
@@ -45,6 +48,35 @@ public class 슈퍼광고 : MonoBehaviour {
     {
         //interstitial.OnAdClosed += OnAdClosed;
         RequestInterstitialAds();
+        리퀘스트영상광고();
+    }
+    public void 즐겨찾기광고보여줘(string name)
+    {
+        if (rewardedAd.IsLoaded())
+        {
+            현재이름 = name;
+            rewardedAd.Show();
+        }
+    }
+    public void Update()
+    {
+        시간체크 -= Time.deltaTime;
+        if (시간체크 <= 0)
+        {
+            시간체크 = 15f;
+            if(!rewardedAd.IsLoaded())
+            {
+                리퀘스트영상광고();
+            }
+        }
+    }
+    public void 리퀘스트영상광고()
+    {
+        this.rewardedAd = new RewardedAd("ca-app-pub-8583528480029184/3062945328");
+        this.rewardedAd.OnUserEarnedReward += HandleUserEarnedReward;
+
+        AdRequest request = new AdRequest.Builder().Build();
+        this.rewardedAd.LoadAd(request);
     }
     //private void OnAdClosed(object sender, EventArgs e)
     //{
@@ -73,7 +105,7 @@ public class 슈퍼광고 : MonoBehaviour {
     }
     private void RequestInterstitialAds()
     {
-        string adID_2 = "ca-app-pub-8583528480029184/3158041189";
+        string adID_2 = "ca-app-pub-8583528480029184/6730727591";
 
         // Initialize an InterstitialAd.
         interstitial = new InterstitialAd(adID_2);
@@ -92,4 +124,19 @@ public class 슈퍼광고 : MonoBehaviour {
         interstitial.LoadAd(request);
 
     }
+    #region 리워드 광고
+
+
+    public void HandleRewardedAdFailedToLoad(object sender, AdErrorEventArgs args)
+    {
+        
+    }
+    public void HandleUserEarnedReward(object sender, Reward args)
+    {
+        Debug.Log("즐겨찾기 보상획득");
+        PlayerPrefs.SetInt(현재이름, 1);
+        Debug.Log(PlayerPrefs.GetInt(현재이름));
+    }
+
+    #endregion
 }

@@ -5,12 +5,16 @@ using UnityEngine.UI;
 using System.IO;
 public class Le번역의요정개인: MonoBehaviour
 {
+    public GameObject 즐겨찾기개방창;
     public List<int> 수퍼동기화 = new List<int>();
     public List<int> 동기화 = new List<int>();
     public Text 케릭터이름;
     public string 세이브에넘겨줄케릭터이름;
     public string 케릭터이름영문;
     public Text[] 대사들;
+    public Text 광고설명;
+    public Text 광고설명예;
+    public Text 광고설명아니요;
     public bool[] 즐겨찾기bool = new bool[20];
     public int 즐겨찾기끝 = 0;
     public void Awake()
@@ -18,6 +22,9 @@ public class Le번역의요정개인: MonoBehaviour
         if (PlayerPrefs.GetInt("EnKo") != 0)
         {
             케릭터이름.text = 케릭터이름영문;
+            광고설명.text = "To use the Favorites \n feature You have to \n watch the commercial.";
+            광고설명예.text = "Yes";
+            광고설명아니요.text = "No";
         }
         DataBase.Instance().세이브이름 = 세이브에넘겨줄케릭터이름;
         DataBase.Instance().불러오기();
