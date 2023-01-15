@@ -20,7 +20,7 @@ public class 메인전용 : MonoBehaviour {
         }
         int n = Random.Range(0, 100);
 
-        if (n <= 25)
+        if (n <= 50)
         {
             슈퍼광고.Instance().ShowInterstitialAd();
 

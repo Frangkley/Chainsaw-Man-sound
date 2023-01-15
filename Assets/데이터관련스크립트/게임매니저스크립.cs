@@ -24,16 +24,16 @@ public class 게임매니저스크립 : MonoBehaviour {
         배너광고.Instance().숨기자();
         SceneManager.LoadScene("아키");
     }
-    public void 죠스케방()
+    public void 마키마방()
     {
         배너광고.Instance().숨기자();
-        SceneManager.LoadScene("죠스케");
+        SceneManager.LoadScene("마키마");
     }
    
-    public void 디오방()
+    public void 파워방()
     {
         배너광고.Instance().숨기자();
-        SceneManager.LoadScene("디오");
+        SceneManager.LoadScene("파워");
     }
     public void 카쿄인방()
     {

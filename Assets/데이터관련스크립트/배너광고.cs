@@ -38,7 +38,7 @@ public class 배너광고 : MonoBehaviour
         //bannerView = new BannerView(adID, AdSize.SmartBanner, AdPosition.Top);
         //AdRequest request = new AdRequest.Builder().Build();
         //bannerView.LoadAd(request);
-        string adID = "ca-app-pub-8583528480029184/1635391745";
+        string adID = "ca-app-pub-8583528480029184/6318899712";
         // AdSize adSize = new AdSize(300, 30);
         /*BannerView*/
         //AdSize.Banner

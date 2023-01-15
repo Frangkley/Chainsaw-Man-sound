@@ -15,6 +15,9 @@ public class Le번역의요정개인: MonoBehaviour
     public Text 광고설명;
     public Text 광고설명예;
     public Text 광고설명아니요;
+    public GameObject 광고실패창;
+    public Text 광고실패창텍스트;
+    public Text 광고실패창확인텍스트;
     public bool[] 즐겨찾기bool = new bool[20];
     public int 즐겨찾기끝 = 0;
     public void Awake()
@@ -25,6 +28,9 @@ public class Le번역의요정개인: MonoBehaviour
             광고설명.text = "To use the Favorites \n feature You have to \n watch the commercial.";
             광고설명예.text = "Yes";
             광고설명아니요.text = "No";
+            광고실패창텍스트.text = "OK";
+            광고실패창확인텍스트.text = "Ad loading failed";
+            
         }
         DataBase.Instance().세이브이름 = 세이브에넘겨줄케릭터이름;
         DataBase.Instance().불러오기();
