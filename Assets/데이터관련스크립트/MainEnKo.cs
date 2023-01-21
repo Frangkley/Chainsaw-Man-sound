@@ -4,6 +4,8 @@ using UnityEngine;
 using UnityEngine.UI;
 public class MainEnKo : MonoBehaviour
 {
+    public enum State { 체인소맨, 봇치, 죠죠 }
+    public State 앱이름 = State.체인소맨;
     public int 저장값 = 1;
     public Text 덴지버튼;
     public Text 마키마버튼;
@@ -20,25 +22,31 @@ public class MainEnKo : MonoBehaviour
     public string body = "https://play.google.com/store/apps/details?id=com.frang.jojosound&hl=ko&gl=US";
     public void Awake()
     {
-        if (!PlayerPrefs.HasKey("EnKo"))
+        if (앱이름 != State.죠죠)
         {
-            PlayerPrefs.SetInt("EnKo", 1);
-            언어창켜기();
+            if (!PlayerPrefs.HasKey("EnKo"))
+            {
+                PlayerPrefs.SetInt("EnKo", 1);
+                언어창켜기();
+            }
         }
 
     }
     // Start is called before the first frame update
     void Start()
     {
-        저장값 = PlayerPrefs.GetInt("EnKo");
-        Debug.Log(PlayerPrefs.GetInt("EnKo"));
-        if (저장값 == 0)
+        if (앱이름 != State.죠죠)
         {
-            한글로();
-        }
-        else
-        {
-            영어로();
+            저장값 = PlayerPrefs.GetInt("EnKo");
+            Debug.Log(PlayerPrefs.GetInt("EnKo"));
+            if (저장값 == 0)
+            {
+                한글로();
+            }
+            else
+            {
+                영어로();
+            }
         }
 
     }
