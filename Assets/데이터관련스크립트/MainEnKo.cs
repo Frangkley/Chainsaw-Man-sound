@@ -43,6 +43,10 @@ public class MainEnKo : MonoBehaviour
             다른앱보기제거.SetActive(false);
             subject = "Chainsaw Man Characters sound";
         }
+        else
+        {
+            공지사항내용.text = "현재 3화까지의 내용에서 \n 나온 대사들 입니다.\n(아키 콩 제외)\n\n다운로드수가 늘어나면\n업데이트하겠습니다!\n\n----------\n1.2ver\n공유기능업데이트!";
+        }
 
     }
     public void ShareApp()
@@ -109,7 +113,7 @@ public class MainEnKo : MonoBehaviour
             제목.text = "체인소 맨";
             제목.fontSize = 22;
             공지사항제목.text = "공 지 사 항";
-            공지사항내용.text = "현재 3화까지의 내용에서 \n 나온 대사들 입니다.\n(아키 콩 제외)\n\n다운로드수가 늘어나면\n업데이트하겠습니다!";
+            공지사항내용.text = "현재 3화까지의 내용에서 \n 나온 대사들 입니다.\n(아키 콩 제외)\n\n다운로드수가 늘어나면\n업데이트하겠습니다!\n\n----------\n1.2ver\n공유기능업데이트!";
             subject = "체인소맨 음성대사모음";
             다른앱보기제거.SetActive(true);
         }

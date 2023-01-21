@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-//[ExecuteInEditMode]
+  //   [ExecuteInEditMode]
 public class 자식생성용: MonoBehaviour
 {
     public GameObject 프리팹추가;

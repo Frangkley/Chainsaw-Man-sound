@@ -16,6 +16,9 @@ public class Le번역의요정개인: MonoBehaviour
     public Text 광고설명;
     public Text 광고설명예;
     public Text 광고설명아니요;
+    public Text 공유설명;
+    public Text 공유설명예;
+    public Text 공유설명아니요;
     public GameObject 광고실패창;
     public Text 광고실패창텍스트;
     public Text 광고실패창확인텍스트;
@@ -26,12 +29,15 @@ public class Le번역의요정개인: MonoBehaviour
         if (PlayerPrefs.GetInt("EnKo") != 0)
         {
             케릭터이름.text = 케릭터이름영문;
-            광고설명.text = "To use the Favorites \n feature You have to \n watch the commercial.";
+            광고설명.text = "We're sorry, but this\n feature requires video\n viewing.";
             광고설명예.text = "Yes";
             광고설명아니요.text = "No";
             광고실패창텍스트.text = "OK";
             광고실패창확인텍스트.text = "Ad loading failed";
             
+            공유설명.text = "We're sorry, but this\n feature requires video\n viewing.";
+            공유설명예.text = "Yes";
+            공유설명아니요.text = "No";
         }
         DataBase.Instance().세이브이름 = 세이브에넘겨줄케릭터이름;
         슈퍼광고.Instance().영문이름 = 케릭터이름영문;

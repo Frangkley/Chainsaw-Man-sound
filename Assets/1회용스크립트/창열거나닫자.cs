@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using System.IO;
-//        [ExecuteInEditMode]
+     //   [ExecuteInEditMode]
 public class 창열거나닫자 : MonoBehaviour {
     public 창열거나닫자 공유기능팝업스크립트;
     public GameObject 닫을거;
@@ -14,7 +14,7 @@ public class 창열거나닫자 : MonoBehaviour {
     public void Start()
     {
         // 부모 = gameObject.transform.parent.gameObject;
-      //  자기번호 = 부모.GetComponent<자기번호>().번호;
+       // 자기번호 = 부모.GetComponent<자기번호>().번호;
     }
     public void 별표표시()
     {
@@ -28,8 +28,10 @@ public class 창열거나닫자 : MonoBehaviour {
     }
     public void 공유기능광고보여줘()
     {
-        공유기능팝업스크립트.자기번호 = 자기번호;
+        Debug.Log(자기번호 + "자기번호");
         열거.SetActive(true);
+        공유기능팝업스크립트.자기번호 = 자기번호;
+        Debug.Log(공유기능팝업스크립트.자기번호 + "팝업스크립트자기번호");
     }
     public void 공유기능광고진짜보여주기()
     {

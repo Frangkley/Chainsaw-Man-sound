@@ -487,6 +487,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a80aa7245cefa0545a13a3a9fca39d99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  "\uACF5\uC720\uAE30\uB2A5\uD31D\uC5C5\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
   "\uB2EB\uC744\uAC70": {fileID: 0}
   "\uC5F4\uAC70": {fileID: 186484886}
   "\uC628\uC624\uD504": 0
@@ -1060,6 +1061,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a80aa7245cefa0545a13a3a9fca39d99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  "\uACF5\uC720\uAE30\uB2A5\uD31D\uC5C5\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
   "\uB2EB\uC744\uAC70": {fileID: 0}
   "\uC5F4\uAC70": {fileID: 852006709}
   "\uC628\uC624\uD504": 0
@@ -1194,6 +1196,11 @@ MonoBehaviour:
   "\uC2DC\uAC04\uCCB4\uD06C": 15
   Bu: 1
   "\uBC88\uC5ED\uC758\uC694\uC815": {fileID: 0}
+  "\uC601\uBB38\uC774\uB984": 
+  "\uACF5\uC720\uD560\uC74C\uC131": {fileID: 0}
+  "\uACF5\uC720\uD560\uC74C\uC131\uBC88\uD638": 0
+  "\uC18C\uB9AC\uC7AC\uC0DD\uC2A4\uD06C\uB9BD": {fileID: 0}
+  "\uBCF4\uC0C1\uAC12": 0
 --- !u!4 &277108432
 Transform:
   m_ObjectHideFlags: 0
@@ -1711,6 +1718,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a80aa7245cefa0545a13a3a9fca39d99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  "\uACF5\uC720\uAE30\uB2A5\uD31D\uC5C5\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
   "\uB2EB\uC744\uAC70": {fileID: 0}
   "\uC5F4\uAC70": {fileID: 640520603}
   "\uC628\uC624\uD504": 0
@@ -2906,6 +2914,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a80aa7245cefa0545a13a3a9fca39d99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  "\uACF5\uC720\uAE30\uB2A5\uD31D\uC5C5\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
   "\uB2EB\uC744\uAC70": {fileID: 640520603}
   "\uC5F4\uAC70": {fileID: 0}
   "\uC628\uC624\uD504": 0
@@ -5082,6 +5091,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a80aa7245cefa0545a13a3a9fca39d99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  "\uACF5\uC720\uAE30\uB2A5\uD31D\uC5C5\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
   "\uB2EB\uC744\uAC70": {fileID: 852006709}
   "\uC5F4\uAC70": {fileID: 0}
   "\uC628\uC624\uD504": 0
