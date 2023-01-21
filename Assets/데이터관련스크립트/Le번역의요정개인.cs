@@ -5,6 +5,7 @@ using UnityEngine.UI;
 using System.IO;
 public class Le번역의요정개인: MonoBehaviour
 {
+    public GameObject 공유기능팝업;
     public GameObject 즐겨찾기개방창;
     public List<int> 수퍼동기화 = new List<int>();
     public List<int> 동기화 = new List<int>();
@@ -33,6 +34,7 @@ public class Le번역의요정개인: MonoBehaviour
             
         }
         DataBase.Instance().세이브이름 = 세이브에넘겨줄케릭터이름;
+        슈퍼광고.Instance().영문이름 = 케릭터이름영문;
         DataBase.Instance().불러오기();
         동기화 = DataBase.Instance().언어.즐겨찾기자기번호리스트;
 

@@ -6,15 +6,18 @@ public class 소리재생스크립트 : MonoBehaviour {
 
     public AudioSource 소리;
     public AudioClip[] 클립들;
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
+    public TextAsset[] 클립공유용들;
+    // Use this for initialization
+
+    public void Start()
+    {
+        슈퍼광고.Instance().소리재생스크립 = gameObject.GetComponent<소리재생스크립트>();
+    }
+    public void 소리재생(int 번호)
+    {
+        소리.clip = 클립들[번호];
+        소리.Play();
+    }
     public void Count0()
     {
         소리.clip = 클립들[0];

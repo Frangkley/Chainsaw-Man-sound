@@ -59,6 +59,7 @@ public class MainEnKo : MonoBehaviour
         yield return new WaitForEndOfFrame();
         //execute the below lines if being run on a Android device
 #if UNITY_ANDROID
+        body = "https://play.google.com/store/apps/details?id=com.bef.chainsawmansound";
         //Reference of AndroidJavaClass class for intent
         AndroidJavaClass intentClass = new AndroidJavaClass("android.content.Intent");
         //Reference of AndroidJavaObject class for intent
