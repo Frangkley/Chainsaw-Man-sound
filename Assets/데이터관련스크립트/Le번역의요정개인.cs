@@ -32,8 +32,8 @@ public class Le번역의요정개인: MonoBehaviour
             광고설명.text = "We're sorry, but this\n feature requires video\n viewing.";
             광고설명예.text = "Yes";
             광고설명아니요.text = "No";
-            광고실패창텍스트.text = "OK";
-            광고실패창확인텍스트.text = "Ad loading failed";
+            광고실패창텍스트.text = "Ad loading failed";
+            광고실패창확인텍스트.text = "OK";
             
             공유설명.text = "We're sorry, but this\n feature requires video\n viewing.";
             공유설명예.text = "Yes";
