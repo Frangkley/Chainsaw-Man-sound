@@ -183,6 +183,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 1522325359}
   "\uC790\uAE30\uBC88\uD638": 14
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &9988550
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -434,6 +436,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 1743424579}
   "\uC790\uAE30\uBC88\uD638": 35
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &30882764
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1114,6 +1118,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 672848613}
   "\uC790\uAE30\uBC88\uD638": 23
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &69471218
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1268,6 +1274,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 1497153379}
   "\uC790\uAE30\uBC88\uD638": 8
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &70642110
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2034,6 +2042,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 670673401}
   "\uC790\uAE30\uBC88\uD638": 32
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &139318010
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2188,6 +2198,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 426232156}
   "\uC790\uAE30\uBC88\uD638": 13
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &144455743
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2498,6 +2510,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 1156136328}
   "\uC790\uAE30\uBC88\uD638": 27
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &171994410
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3028,6 +3042,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 406897576}
   "\uC790\uAE30\uBC88\uD638": 25
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &220235148
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3258,6 +3274,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
   "\uBD80\uBAA8": {fileID: 0}
   "\uC790\uAE30\uBC88\uD638": 0
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &223991176
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3488,6 +3506,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 173739278}
   "\uC790\uAE30\uBC88\uD638": 30
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &235742795
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3642,6 +3662,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 1206122885}
   "\uC790\uAE30\uBC88\uD638": 24
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &241803291
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4202,6 +4224,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
   "\uBD80\uBAA8": {fileID: 0}
   "\uC790\uAE30\uBC88\uD638": 0
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &308117560
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4453,6 +4477,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 1956136795}
   "\uC790\uAE30\uBC88\uD638": 5
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &332630891
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4722,6 +4748,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 99981438}
   "\uC790\uAE30\uBC88\uD638": 6
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &348131270
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5256,7 +5284,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uB108"
+  m_Text: "\uB2C8\uAC00 \uD55C\uAC70\uC57C?"
 --- !u!222 &370007422
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5277,8 +5305,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 751a4a1f7526e7f4f8b5d659cf9eb627, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Ko: "\uB108"
-  En: You
+  Ko: "\uB2C8\uAC00 \uD55C\uAC70\uC57C?"
+  En: (Is this) your handiwork?
   "\uAE00\uC528\uD06C\uAE30": 14
   "\uBCF8\uC778\uD14D\uC2A4\uD2B8": {fileID: 370007421}
 --- !u!1 &375885758
@@ -5341,6 +5369,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 1652048277}
   "\uC790\uAE30\uBC88\uD638": 29
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &375885761
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5571,6 +5601,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 426232156}
   "\uC790\uAE30\uBC88\uD638": 13
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &381478871
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5725,6 +5757,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 922857025}
   "\uC790\uAE30\uBC88\uD638": 9
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &384820789
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5879,6 +5913,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 1743424579}
   "\uC790\uAE30\uBC88\uD638": 35
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &391246917
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6183,6 +6219,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 120747107}
   "\uC790\uAE30\uBC88\uD638": 0
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &404514310
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6787,6 +6825,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 480198704}
   "\uC790\uAE30\uBC88\uD638": 26
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &427487431
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7625,6 +7665,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 40976934}
   "\uC790\uAE30\uBC88\uD638": 21
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &481620898
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7779,6 +7821,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 560121292}
   "\uC790\uAE30\uBC88\uD638": 33
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &496396229
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7933,6 +7977,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 997620662}
   "\uC790\uAE30\uBC88\uD638": 12
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &499216328
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8247,6 +8293,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 540516931}
   "\uC790\uAE30\uBC88\uD638": 22
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &520746263
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8800,6 +8848,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 997620662}
   "\uC790\uAE30\uBC88\uD638": 12
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &550078814
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9277,6 +9327,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 201815410}
   "\uC790\uAE30\uBC88\uD638": 4
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &571564124
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9501,7 +9553,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fde7e3e7ade89b643af92bcec8ccdcaa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  "\uC571\uC885\uB958": 0
   currentState: 1
+  "\uC990\uACA8\uCC3E\uAE30\uBC29\uAD11\uACE0\uD31D\uC5C5": {fileID: 0}
+  "\uC990\uACA8\uCC3E\uAE30\uBC29\uAD11\uACE0\uC2E4\uD328\uD31D\uC5C5": {fileID: 0}
 --- !u!114 &604256573
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9913,6 +9968,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 397536730}
   "\uC790\uAE30\uBC88\uD638": 16
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &625538280
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10067,6 +10124,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 0}
   "\uC790\uAE30\uBC88\uD638": 0
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &651340982
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10671,6 +10730,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 665758274}
   "\uC790\uAE30\uBC88\uD638": 18
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &674159443
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10803,8 +10864,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.42200002}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 75, y: -77}
-  m_SizeDelta: {x: 129.2864, y: 45.5788}
+  m_AnchoredPosition: {x: 75, y: -100}
+  m_SizeDelta: {x: 129.2864, y: 40}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &690007502
 MonoBehaviour:
@@ -10919,6 +10980,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
   "\uBD80\uBAA8": {fileID: 0}
   "\uC790\uAE30\uBC88\uD638": 0
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!1 &705826931
 GameObject:
   m_ObjectHideFlags: 0
@@ -11055,6 +11118,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 2090669876}
   "\uC790\uAE30\uBC88\uD638": 17
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &713043010
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11285,6 +11350,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 44174529}
   "\uC790\uAE30\uBC88\uD638": 20
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &721608769
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11785,6 +11852,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 1250894918}
   "\uC790\uAE30\uBC88\uD638": 34
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &775537561
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12165,6 +12234,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 120747107}
   "\uC790\uAE30\uBC88\uD638": 0
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &787879936
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12319,6 +12390,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 812424913}
   "\uC790\uAE30\uBC88\uD638": 2
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &800466729
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12701,6 +12774,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 406897576}
   "\uC790\uAE30\uBC88\uD638": 25
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &811298936
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13313,6 +13388,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 672848613}
   "\uC790\uAE30\uBC88\uD638": 23
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &817738606
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13543,6 +13620,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 922857025}
   "\uC790\uAE30\uBC88\uD638": 9
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &847624895
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13773,6 +13852,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 50401404}
   "\uC790\uAE30\uBC88\uD638": 11
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &871365445
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13905,8 +13986,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.42200002}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -75, y: -77}
-  m_SizeDelta: {x: 129.2864, y: 45.5788}
+  m_AnchoredPosition: {x: -75, y: -100}
+  m_SizeDelta: {x: 129.2864, y: 40}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &878481247
 MonoBehaviour:
@@ -14021,6 +14102,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 0}
   "\uC790\uAE30\uBC88\uD638": 0
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!1 &884058764
 GameObject:
   m_ObjectHideFlags: 0
@@ -14081,6 +14164,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 1281196944}
   "\uC790\uAE30\uBC88\uD638": 31
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &884058767
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14235,6 +14320,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 480198704}
   "\uC790\uAE30\uBC88\uD638": 26
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &903533269
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14389,6 +14476,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 560121292}
   "\uC790\uAE30\uBC88\uD638": 33
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &908059550
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15263,7 +15352,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Ko: "\uBBF8\uB9AC \uB9D0\uD574\uB458\uAC8C"
   En: Let me be perfectly clear
-  "\uAE00\uC528\uD06C\uAE30": 15
+  "\uAE00\uC528\uD06C\uAE30": 14
   "\uBCF8\uC778\uD14D\uC2A4\uD2B8": {fileID: 947045304}
 --- !u!1 &950843211
 GameObject:
@@ -15325,6 +15414,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 40976934}
   "\uC790\uAE30\uBC88\uD638": 21
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &950843214
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15676,141 +15767,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 965378843}
   m_CullTransparentMesh: 0
---- !u!1 &986113298
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 986113299}
-  - component: {fileID: 986113301}
-  - component: {fileID: 986113300}
-  m_Layer: 5
-  m_Name: Text (TMP)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &986113299
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 986113298}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1378957169}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &986113300
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 986113298}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_text: Button
-  m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_fontSharedMaterials: []
-  m_fontMaterial: {fileID: 0}
-  m_fontMaterials: []
-  m_fontColor32:
-    serializedVersion: 2
-    rgba: 4281479730
-  m_fontColor: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
-  m_enableVertexGradient: 0
-  m_colorMode: 3
-  m_fontColorGradient:
-    topLeft: {r: 1, g: 1, b: 1, a: 1}
-    topRight: {r: 1, g: 1, b: 1, a: 1}
-    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
-    bottomRight: {r: 1, g: 1, b: 1, a: 1}
-  m_fontColorGradientPreset: {fileID: 0}
-  m_spriteAsset: {fileID: 0}
-  m_tintAllSprites: 0
-  m_StyleSheet: {fileID: 0}
-  m_TextStyleHashCode: -1183493901
-  m_overrideHtmlColors: 0
-  m_faceColor:
-    serializedVersion: 2
-    rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
-  m_fontWeight: 400
-  m_enableAutoSizing: 0
-  m_fontSizeMin: 18
-  m_fontSizeMax: 72
-  m_fontStyle: 0
-  m_HorizontalAlignment: 2
-  m_VerticalAlignment: 512
-  m_textAlignment: 65535
-  m_characterSpacing: 0
-  m_wordSpacing: 0
-  m_lineSpacing: 0
-  m_lineSpacingMax: 0
-  m_paragraphSpacing: 0
-  m_charWidthMaxAdj: 0
-  m_enableWordWrapping: 1
-  m_wordWrappingRatios: 0.4
-  m_overflowMode: 0
-  m_linkedTextComponent: {fileID: 0}
-  parentLinkedComponent: {fileID: 0}
-  m_enableKerning: 1
-  m_enableExtraPadding: 0
-  checkPaddingRequired: 0
-  m_isRichText: 1
-  m_parseCtrlCharacters: 1
-  m_isOrthographic: 1
-  m_isCullingEnabled: 0
-  m_horizontalMapping: 0
-  m_verticalMapping: 0
-  m_uvLineOffset: 0
-  m_geometrySortingOrder: 0
-  m_IsTextObjectScaleStatic: 0
-  m_VertexBufferAutoSizeReduction: 0
-  m_useMaxVisibleDescender: 1
-  m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
-  m_isUsingLegacyAnimationComponent: 0
-  m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
-  m_baseMaterial: {fileID: 0}
-  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
---- !u!222 &986113301
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 986113298}
-  m_CullTransparentMesh: 1
 --- !u!1 &997620662
 GameObject:
   m_ObjectHideFlags: 0
@@ -16021,6 +15977,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 1156136328}
   "\uC790\uAE30\uBC88\uD638": 27
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1011683303
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16353,6 +16311,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 2123885997}
   "\uC790\uAE30\uBC88\uD638": 15
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1035856404
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16507,6 +16467,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 547320579}
   "\uC790\uAE30\uBC88\uD638": 1
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1054040449
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16645,6 +16607,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 90ec1f192ee0010489a0c832bcb9d825, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  "\uC0C9\uC0C1\uAC12": {r: 0, g: 0, b: 0, a: 0}
+  "\uBC29\uC885\uB958\uD568\uC218": 0
   "\uACF5\uC720\uAE30\uB2A5\uD31D\uC5C5": {fileID: 363782738}
   "\uC990\uACA8\uCC3E\uAE30\uAC1C\uBC29\uCC3D": {fileID: 1323730557}
   "\uC218\uD37C\uB3D9\uAE30\uD654": 
@@ -16699,6 +16663,17 @@ MonoBehaviour:
   "\uAD11\uACE0\uC2E4\uD328\uCC3D\uD655\uC778\uD14D\uC2A4\uD2B8": {fileID: 83161440}
   "\uC990\uACA8\uCC3E\uAE30bool": 0000000000000000000000000000000000000000
   "\uC990\uACA8\uCC3E\uAE30\uB05D": 0
+  "\uBE44\uB514\uC624\uD504\uB9AC\uD69F\uC218": 2
+  "\uCF00\uB9AD\uD130\uCD5C\uB300\uD69F\uC218": 5
+  "\uC18C\uB9AC\uC7AC\uC0DD\uC2A4\uD06C\uB9BD\uBC88\uC5ED\uCABD": {fileID: 1742291824}
+  "\uD788\uD1A0\uB9AC\uC774\uBBF8\uC9C0": {fileID: 0}
+  "\uB2C8\uC9C0\uCE74\uC774\uBBF8\uC9C0": {fileID: 0}
+  "\uB8CC\uC774\uBBF8\uC9C0": {fileID: 0}
+  "\uC138\uC774\uCE74\uC774\uBBF8\uC9C0": {fileID: 0}
+  "\uB374\uC9C0\uC774\uBBF8\uC9C0": {fileID: 0}
+  "\uC544\uD0A4\uC774\uBBF8\uC9C0": {fileID: 0}
+  "\uB9C8\uD0A4\uB9C8\uC774\uBBF8\uC9C0": {fileID: 0}
+  "\uD30C\uC6CC\uC774\uBBF8\uC9C0": {fileID: 0}
 --- !u!1 &1095746700
 GameObject:
   m_ObjectHideFlags: 0
@@ -17560,6 +17535,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 1281196944}
   "\uC790\uAE30\uBC88\uD638": 31
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1160546986
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17887,6 +17864,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 99981438}
   "\uC790\uAE30\uBC88\uD638": 6
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1203955495
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18961,7 +18940,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uAD1C\uCC2E\uC544?"
+  m_Text: "\uB108"
 --- !u!222 &1310763767
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -18982,8 +18961,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 751a4a1f7526e7f4f8b5d659cf9eb627, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Ko: "\uAD1C\uCC2E\uC544?"
-  En: Are you all right?
+  Ko: "\uB108"
+  En: You
   "\uAE00\uC528\uD06C\uAE30": 14
   "\uBCF8\uC778\uD14D\uC2A4\uD2B8": {fileID: 1310763766}
 --- !u!1 &1323730557
@@ -19199,6 +19178,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 812424913}
   "\uC790\uAE30\uBC88\uD638": 2
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1359338737
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19475,8 +19456,7 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 986113299}
+  m_Children: []
   m_Father: {fileID: 1662936002}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -19813,6 +19793,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 1206122885}
   "\uC790\uAE30\uBC88\uD638": 24
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1412775716
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20389,6 +20371,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 2090669876}
   "\uC790\uAE30\uBC88\uD638": 17
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1479210702
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20655,6 +20639,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 1948792179}
   "\uC790\uAE30\uBC88\uD638": 3
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1488118860
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21056,6 +21042,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 778839319}
   "\uC790\uAE30\uBC88\uD638": 7
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1503006645
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21512,6 +21500,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 418569132}
   "\uC790\uAE30\uBC88\uD638": 10
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1537376484
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21742,6 +21732,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 418569132}
   "\uC790\uAE30\uBC88\uD638": 10
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1576500803
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22477,6 +22469,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 1861538251}
   "\uC790\uAE30\uBC88\uD638": 28
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1679571646
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22884,6 +22878,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 547320579}
   "\uC790\uAE30\uBC88\uD638": 1
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1694330657
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23277,9 +23273,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   "\uC18C\uB9AC": {fileID: 1742291822}
   "\uD074\uB9BD\uB4E4":
-  - {fileID: 8300000, guid: d69849e88e2390b4981d7f45e3414130, type: 3}
   - {fileID: 8300000, guid: 34afb4781396b7d4083233890e27f46a, type: 3}
   - {fileID: 8300000, guid: 0816798ff2d542747b2494d02c66f560, type: 3}
+  - {fileID: 8300000, guid: d69849e88e2390b4981d7f45e3414130, type: 3}
   - {fileID: 8300000, guid: a1d999bd05c38f0449a4a9d7d12bf576, type: 3}
   - {fileID: 8300000, guid: 3017d06855d238c438f5d677ccb784af, type: 3}
   - {fileID: 8300000, guid: caf2d3726b028064498ecf3e8eebaf53, type: 3}
@@ -23289,22 +23285,10 @@ MonoBehaviour:
   - {fileID: 8300000, guid: c41cad5166c99b5479b926fa95324b92, type: 3}
   - {fileID: 8300000, guid: 869ecce2a2442a640af5c6afe3f7267f, type: 3}
   - {fileID: 8300000, guid: d1b23ddf1da14c5488515aeee05678e3, type: 3}
-  - {fileID: 8300000, guid: d9641b53dc0caa744b9d8d35e15b921d, type: 3}
-  - {fileID: 8300000, guid: 437de289fa9d27a4ca0c72664579152d, type: 3}
-  - {fileID: 8300000, guid: fb63105bdf964664281f2018ec4ac758, type: 3}
-  - {fileID: 8300000, guid: eed8c959ac46d77488b469605357702b, type: 3}
-  - {fileID: 8300000, guid: 0a468e6e3f7fb2042a6491a809c79bc9, type: 3}
-  - {fileID: 8300000, guid: db7659558a890724ab9adcb5d3e88e1f, type: 3}
-  - {fileID: 8300000, guid: bbd0535c0cd0b134dacb7d683114d5ee, type: 3}
-  - {fileID: 8300000, guid: 5b5c5fcd8e4472a448e14d799aab44ce, type: 3}
-  - {fileID: 8300000, guid: 72b3fcb347af29a49a5f6bc3f883d11a, type: 3}
-  - {fileID: 8300000, guid: c1536e56b2b6fdc468c36e7cdaff2887, type: 3}
-  - {fileID: 8300000, guid: 0ec6cba9a8d025c40b9c6a8a8a68df8c, type: 3}
-  - {fileID: 8300000, guid: ae6b3953409a5604db00bea24dcb4dfc, type: 3}
   "\uD074\uB9BD\uACF5\uC720\uC6A9\uB4E4":
-  - {fileID: 4900000, guid: 5a50e5d3181ade54bb468d56593588b9, type: 3}
   - {fileID: 4900000, guid: c7764f909ce7c0c4dbca7942834b8ce9, type: 3}
   - {fileID: 4900000, guid: 3d69a33da89295941a80c023a59332aa, type: 3}
+  - {fileID: 4900000, guid: 5a50e5d3181ade54bb468d56593588b9, type: 3}
   - {fileID: 4900000, guid: f54d300067e08e4438dc5c7a859e0254, type: 3}
   - {fileID: 4900000, guid: ed4db3682c4baa74d9da87c6c629e266, type: 3}
   - {fileID: 4900000, guid: dd5340dfc1ff283458f2ee68b1c4323a, type: 3}
@@ -23314,18 +23298,6 @@ MonoBehaviour:
   - {fileID: 4900000, guid: 87168db942ae5db4aacf9b6fd1b73b0c, type: 3}
   - {fileID: 4900000, guid: 9305816c63bb4ec40b3600617cc9ee79, type: 3}
   - {fileID: 4900000, guid: 25e39db6a14256a4ab2796e7579bfe6c, type: 3}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
 --- !u!1 &1743424579
 GameObject:
   m_ObjectHideFlags: 0
@@ -23536,6 +23508,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 778839319}
   "\uC790\uAE30\uBC88\uD638": 7
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1762276034
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23690,6 +23664,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 1497153379}
   "\uC790\uAE30\uBC88\uD638": 8
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1803203090
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23996,6 +23972,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 201815410}
   "\uC790\uAE30\uBC88\uD638": 4
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1814981154
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24226,6 +24204,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 1861538251}
   "\uC790\uAE30\uBC88\uD638": 28
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1835549272
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24380,6 +24360,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 1095746700}
   "\uC790\uAE30\uBC88\uD638": 19
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1843928183
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24615,6 +24597,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 44174529}
   "\uC790\uAE30\uBC88\uD638": 20
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1849508043
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24866,6 +24850,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 1948792179}
   "\uC790\uAE30\uBC88\uD638": 3
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1852519990
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25020,6 +25006,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 1652048277}
   "\uC790\uAE30\uBC88\uD638": 29
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1858327896
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25324,6 +25312,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 397536730}
   "\uC790\uAE30\uBC88\uD638": 16
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1861680188
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25478,6 +25468,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 540516931}
   "\uC790\uAE30\uBC88\uD638": 22
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1865085175
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25950,6 +25942,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 50401404}
   "\uC790\uAE30\uBC88\uD638": 11
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1920944057
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26104,6 +26098,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 1522325359}
   "\uC790\uAE30\uBC88\uD638": 14
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1926299705
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26256,7 +26252,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 504f575e7f92dde4d89dacae2f78fcb1, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 2513adfab4368cb4fa32f3de6ed49fe3, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -26334,6 +26330,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 1956136795}
   "\uC790\uAE30\uBC88\uD638": 5
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1934204543
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26488,6 +26486,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 1250894918}
   "\uC790\uAE30\uBC88\uD638": 34
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1942962722
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26642,6 +26642,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 670673401}
   "\uC790\uAE30\uBC88\uD638": 32
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1946784011
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27444,6 +27446,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 173739278}
   "\uC790\uAE30\uBC88\uD638": 30
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1984663680
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27610,7 +27614,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uB2C8\uAC00 \uD55C\uAC70\uC57C?"
+  m_Text: "\uAD1C\uCC2E\uC544?"
 --- !u!222 &1990705863
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -27631,8 +27635,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 751a4a1f7526e7f4f8b5d659cf9eb627, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Ko: "\uB2C8\uAC00 \uD55C\uAC70\uC57C?-Did you do that?"
-  En: Did you do that?
+  Ko: "\uAD1C\uCC2E\uC544?"
+  En: Are you all right?
   "\uAE00\uC528\uD06C\uAE30": 15
   "\uBCF8\uC778\uD14D\uC2A4\uD2B8": {fileID: 1990705862}
 --- !u!1 &2010770581
@@ -27695,6 +27699,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 1095746700}
   "\uC790\uAE30\uBC88\uD638": 19
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &2010770584
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28081,6 +28087,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 2123885997}
   "\uC790\uAE30\uBC88\uD638": 15
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &2042155342
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28387,6 +28395,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 665758274}
   "\uC790\uAE30\uBC88\uD638": 18
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &2060570509
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -7,6 +7,11 @@ using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
 public class 슈퍼광고 : MonoBehaviour {
+
+    public string 전면광고ID = "ca-app-pub-8583528480029184/8226877757";
+    public string 보상광고오리지널ID = "ca-app-pub-8583528480029184/1405236965";
+    public string 보상광고공유ID = "ca-app-pub-8583528480029184/5292149699";
+    public string 보상광고입장ID = "ca-app-pub-8583528480029184/6792841732";
     public string 현재이름;
     public float 시간체크 = 15f;
     public int Bu = 1;
@@ -33,9 +38,10 @@ public class 슈퍼광고 : MonoBehaviour {
         return instance;
     }
     private InterstitialAd interstitial;
-    const string rewardID = "ca-app-pub-8583528480029184/3062945328";
+  //  const string rewardID = "ca-app-pub-8583528480029184/3062945328";
     private RewardedAd rewardedAd;
     private RewardedAd rewardedAdshare;
+    private RewardedAd rewardeAdTip;
     //private string adUnitId = "ca-app-pub-8583528480029184/3007565273";
     // Use this for initialization
     void Awake()
@@ -57,6 +63,7 @@ public class 슈퍼광고 : MonoBehaviour {
         RequestInterstitialAds();
         리퀘스트영상광고();
         공유리워드영상광고();
+        즐겨찾기방입장광고();
     }
     public void 즐겨찾기광고보여줘(string name, Le번역의요정개인 ang)
     {
@@ -84,6 +91,27 @@ public class 슈퍼광고 : MonoBehaviour {
             공유리워드영상광고();
         }
     }
+    public void 무료로공유해드립니다(int 번호, Le번역의요정개인 ang)
+    {
+        공유할음성번호 = 번호;
+        공유할음성 = 소리재생스크립.클립공유용들[공유할음성번호];
+        string path = System.IO.Path.Combine(Application.temporaryCachePath, (영문이름 + " " + 공유할음성번호 + ".mp3"));
+        System.IO.File.WriteAllBytes(path, 공유할음성.bytes);
+        new NativeShare().AddFile(path).Share();
+        보상값 = false;
+    }
+    public void 즐겨찾기방입장광고보여줘(게임매니저스크립 ang)
+    {
+        if (rewardeAdTip.IsLoaded())
+        {
+            rewardeAdTip.Show(); 
+        }
+        else
+        {
+            ang.즐겨찾기방광고실패팝업.SetActive(true);
+            즐겨찾기방입장광고();
+        }
+    }
     public void Update()
     {
         시간체크 -= Time.deltaTime;
@@ -98,11 +126,15 @@ public class 슈퍼광고 : MonoBehaviour {
             {
                 공유리워드영상광고();
             }
+            if(!rewardeAdTip.IsLoaded())
+            {
+                즐겨찾기방입장광고();
+            }
         }
     }
     public void 리퀘스트영상광고()
     {
-        this.rewardedAd = new RewardedAd("ca-app-pub-8583528480029184/1405236965");
+        this.rewardedAd = new RewardedAd(보상광고오리지널ID);
         this.rewardedAd.OnUserEarnedReward += HandleUserEarnedReward;
 
         AdRequest request = new AdRequest.Builder().Build();
@@ -110,11 +142,18 @@ public class 슈퍼광고 : MonoBehaviour {
     }
     public void 공유리워드영상광고()
     {
-        rewardedAdshare = new RewardedAd("ca-app-pub-8583528480029184/5292149699");
+        rewardedAdshare = new RewardedAd(보상광고공유ID);
         rewardedAdshare.OnUserEarnedReward += ShareHandleUserEarnedReward;
         rewardedAdshare.OnAdClosed += 보상을받았나요;
         AdRequest request = new AdRequest.Builder().Build();
         rewardedAdshare.LoadAd(request);
+    }
+    public void 즐겨찾기방입장광고()
+    {
+       rewardeAdTip = new RewardedAd(보상광고입장ID);
+        rewardeAdTip.OnUserEarnedReward += 즐겨찾기방입장리워드;
+        AdRequest request = new AdRequest.Builder().Build();
+        rewardeAdTip.LoadAd(request);
     }
     //private void OnAdClosed(object sender, EventArgs e)
     //{
@@ -122,6 +161,10 @@ public class 슈퍼광고 : MonoBehaviour {
     //}
     public void ShowInterstitialAd()
     {
+        if (DataBase.Instance().모드종류 == DataBase.프리미엄모드.프리미엄)
+        {
+            return;
+        }
         //Show Ad
         if (interstitial.IsLoaded())
         {
@@ -143,7 +186,7 @@ public class 슈퍼광고 : MonoBehaviour {
     }
     private void RequestInterstitialAds()
     {
-        string adID_2 = "ca-app-pub-8583528480029184/8226877757";
+        string adID_2 = "ca-app-pub-8583528480029184/7329201811";
 
         // Initialize an InterstitialAd.
         interstitial = new InterstitialAd(adID_2);
@@ -171,14 +214,22 @@ public class 슈퍼광고 : MonoBehaviour {
     }*/
     public void HandleUserEarnedReward(object sender, Reward args)
     {
+        //케릭터단위일때
+        /*
         Debug.Log("즐겨찾기 보상획득");
         PlayerPrefs.SetInt(현재이름, 1);
         Debug.Log(PlayerPrefs.GetInt(현재이름));
+        */
+        PlayerPrefs.SetInt("즐찾횟수", 2);
     }
     public void ShareHandleUserEarnedReward(object sender, Reward args)
     {
         보상값 = true;
 
+    }
+    public void 즐겨찾기방입장리워드(object sender, Reward args)
+    {
+        SceneManager.LoadScene("즐겨찾기방");
     }
     public void 보상을받았나요(object sender, EventArgs args)
     {
@@ -198,9 +249,10 @@ public class 슈퍼광고 : MonoBehaviour {
             string path = System.IO.Path.Combine(Application.temporaryCachePath, (영문이름+" "+공유할음성번호+".mp3"));
             System.IO.File.WriteAllBytes(path, 공유할음성.bytes);
             new NativeShare().AddFile(path).Share();
-            Debug.Log("공유하기 권한획득");
+            //Debug.Log("공유하기 권한획득");
             보상값 = false;
         }
     }
     #endregion
+
 }

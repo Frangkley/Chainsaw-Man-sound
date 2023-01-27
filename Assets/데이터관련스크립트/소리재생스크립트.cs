@@ -7,16 +7,20 @@ public class 소리재생스크립트 : MonoBehaviour {
     public AudioSource 소리;
     public AudioClip[] 클립들;
     public TextAsset[] 클립공유용들;
-    // Use this for initialization
-
-    public void Start()
+    public void Awake()
     {
         슈퍼광고.Instance().소리재생스크립 = gameObject.GetComponent<소리재생스크립트>();
+        DataBase.Instance().소리재생스크립 = gameObject.GetComponent<소리재생스크립트>();
+        DataBase.Instance().소리개수 = 클립들.Length;
     }
     public void 소리재생(int 번호)
     {
-        소리.clip = 클립들[번호];
-        소리.Play();
+        if ( 클립들.Length < 번호+1)
+        {
+            return;
+        }
+            소리.clip = 클립들[번호];
+            소리.Play();
     }
     public void Count0()
     {

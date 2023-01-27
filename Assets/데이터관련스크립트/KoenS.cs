@@ -13,10 +13,10 @@ public class KoenS : MonoBehaviour
     // Start is called before the first frame update
 
     public void Awake()
-    {
+    {/*
         if (PlayerPrefs.GetInt("EnKo") != 0)
         {
             본인텍스트.text = En;
-        }
+        }*/
     }
 }

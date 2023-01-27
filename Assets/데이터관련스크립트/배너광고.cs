@@ -5,7 +5,7 @@ using GoogleMobileAds.Api;
 using UnityEngine.UI;
 public class 배너광고 : MonoBehaviour
 {
-
+    public string 배너광고ID = "ca-app-pub-8583528480029184/6318899712";
     public static 배너광고 instance;
     public static 배너광고 Instance()
     {
@@ -22,15 +22,21 @@ public class 배너광고 : MonoBehaviour
         }
         return instance;
     }
-    static bool isAdsBannerSet = false;
+    //static bool isAdsBannerSet = false;
     private BannerView bannerView;
     public void Start()
     {
-        ShowBannerAd();
+        if (DataBase.Instance().모드종류 == DataBase.프리미엄모드.일반)
+        {
+            ShowBannerAd();
+        }
     }
     public void 숨기자()
     {
-        bannerView.Destroy();
+        if (bannerView != null)
+        {
+            bannerView.Destroy();
+        }
     }
     private void ShowBannerAd()
     {
@@ -38,16 +44,16 @@ public class 배너광고 : MonoBehaviour
         //bannerView = new BannerView(adID, AdSize.SmartBanner, AdPosition.Top);
         //AdRequest request = new AdRequest.Builder().Build();
         //bannerView.LoadAd(request);
-        string adID = "ca-app-pub-8583528480029184/6318899712";
+        //string adID = "ca-app-pub-8583528480029184/5308693078";
         // AdSize adSize = new AdSize(300, 30);
         /*BannerView*/
         //AdSize.Banner
-        bannerView = new BannerView(adID, AdSize.SmartBanner, AdPosition.Bottom);
+        bannerView = new BannerView(배너광고ID, AdSize.SmartBanner, AdPosition.Bottom);
         AdRequest request = new AdRequest.Builder().Build();
 
         bannerView.LoadAd(request);
         bannerView.Show();
-        isAdsBannerSet = true;
+      //  isAdsBannerSet = true;
         // BannerView _banner = new BannerView(adID, AdSize.Banner, AdPosition.Bottom);
     }
 

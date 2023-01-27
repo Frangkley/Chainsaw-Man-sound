@@ -195,7 +195,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uC8C4\uC1A1\uD569\uB2C8\uB2E4"
+  m_Text: "\uD558\uCC2E\uAD6C\uB9CC"
 --- !u!222 &17410359
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -216,8 +216,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 751a4a1f7526e7f4f8b5d659cf9eb627, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Ko: "\uC8C4\uC1A1\uD569\uB2C8\uB2E4"
-  En: I'm sorry.
+  Ko: "\uD558\uCC2E\uAD6C\uB9CC"
+  En: That's dumb as hell
   "\uAE00\uC528\uD06C\uAE30": 15
   "\uBCF8\uC778\uD14D\uC2A4\uD2B8": {fileID: 17410358}
 --- !u!1 &20859595
@@ -356,6 +356,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 0}
   "\uC790\uAE30\uBC88\uD638": 7
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &22689361
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -510,6 +512,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 1743424579}
   "\uC790\uAE30\uBC88\uD638": 35
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &30882764
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -645,7 +649,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 450, y: 65}
+  m_SizeDelta: {x: 450, y: 95}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &40976936
 MonoBehaviour:
@@ -795,7 +799,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 450, y: 90}
+  m_SizeDelta: {x: 450, y: 95}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &44174531
 MonoBehaviour:
@@ -945,7 +949,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 450, y: 90}
+  m_SizeDelta: {x: 450, y: 65}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &50401406
 MonoBehaviour:
@@ -1114,6 +1118,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 672848613}
   "\uC790\uAE30\uBC88\uD638": 23
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &69471218
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1268,6 +1274,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 1497153379}
   "\uC790\uAE30\uBC88\uD638": 8
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &70642110
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1631,7 +1639,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 450, y: 65}
+  m_SizeDelta: {x: 450, y: 95}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &99981440
 MonoBehaviour:
@@ -2102,6 +2110,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 670673401}
   "\uC790\uAE30\uBC88\uD638": 32
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &139318010
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2256,6 +2266,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 426232156}
   "\uC790\uAE30\uBC88\uD638": 13
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &144455743
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2410,6 +2422,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 0}
   "\uC790\uAE30\uBC88\uD638": 18
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &152960309
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2777,6 +2791,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 1156136328}
   "\uC790\uAE30\uBC88\uD638": 27
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &171994410
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3233,6 +3249,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 0}
   "\uC790\uAE30\uBC88\uD638": 33
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &179954130
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3537,6 +3555,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 0}
   "\uC790\uAE30\uBC88\uD638": 15
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &206685239
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3691,6 +3711,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 406897576}
   "\uC790\uAE30\uBC88\uD638": 25
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &220235148
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3997,6 +4019,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 1206122885}
   "\uC790\uAE30\uBC88\uD638": 24
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &241803291
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4244,7 +4268,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uC8FD\uC5B4!"
+  m_Text: "\uCC38 \uC774\uC0C1\uD558\uC9C0"
 --- !u!222 &265144831
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4265,8 +4289,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 751a4a1f7526e7f4f8b5d659cf9eb627, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Ko: "\uC8FD\uC5B4!"
-  En: You'll die!
+  Ko: "\uCC38 \uC774\uC0C1\uD558\uC9C0"
+  En: ' Funny how that works'
   "\uAE00\uC528\uD06C\uAE30": 15
   "\uBCF8\uC778\uD14D\uC2A4\uD2B8": {fileID: 265144830}
 --- !u!1 &279031883
@@ -4329,6 +4353,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 0}
   "\uC790\uAE30\uBC88\uD638": 2
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &279031886
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4559,6 +4585,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 0}
   "\uC790\uAE30\uBC88\uD638": 1
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &289145944
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5118,6 +5146,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 1956136795}
   "\uC790\uAE30\uBC88\uD638": 5
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &332630891
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5559,8 +5589,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.42200002}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -75, y: -77}
-  m_SizeDelta: {x: 129.2864, y: 45.5788}
+  m_AnchoredPosition: {x: -75, y: -87.1053}
+  m_SizeDelta: {x: 129.2864, y: 65.7894}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &361826867
 MonoBehaviour:
@@ -5581,6 +5611,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 0}
   "\uC790\uAE30\uBC88\uD638": 0
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &361826868
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5747,7 +5779,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uC800 \uB3C8 \uC5C6\uB294\uB370\uC694"
+  m_Text: "\uC88B\uC9C0?"
 --- !u!222 &362461893
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5768,8 +5800,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 751a4a1f7526e7f4f8b5d659cf9eb627, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Ko: "\uC800 \uB3C8 \uC5C6\uB294\uB370\uC694"
-  En: I don't have any cash
+  Ko: "\uC88B\uC9C0?"
+  En: Sounds sweet, right?
   "\uAE00\uC528\uD06C\uAE30": 15
   "\uBCF8\uC778\uD14D\uC2A4\uD2B8": {fileID: 362461892}
 --- !u!1 &370007419
@@ -5833,7 +5865,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 12
+    m_FontSize: 14
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 1
@@ -5844,8 +5876,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uB09C \uC8FD\uC744 \uB54C\uAE4C\uC9C0 \uC5EC\uC790\uB791 \n\uC0AC\uADC0\uC9C0\uB3C4
-    \uBABB\uD558\uACA0\uC9C0"
+  m_Text: "\uB098\uB294 \uB0A8\uC790\uC640 \uC2F8\uC6B0\uBA74 \n\uACE0\uAC04 \uBC16\uC5D0
+    \uC548 \uB178\uB9AC\uAC70\uB4E0"
 --- !u!222 &370007422
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5866,12 +5898,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 751a4a1f7526e7f4f8b5d659cf9eb627, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Ko: "\uB09C \uC8FD\uC744 \uB54C\uAE4C\uC9C0 \uC5EC\uC790\uB791 \n\uC0AC\uADC0\uC9C0\uB3C4
-    \uBABB\uD558\uACA0\uC9C0"
-  En: 'Probably gonna die without
-
-    ever having a girlfriend, too'
-  "\uAE00\uC528\uD06C\uAE30": 12
+  Ko: "\uB098\uB294 \uB0A8\uC790\uC640 \uC2F8\uC6B0\uBA74 \n\uACE0\uAC04 \uBC16\uC5D0
+    \uC548 \uB178\uB9AC\uAC70\uB4E0"
+  En: "When. fight a dude, \nI only go for the balls"
+  "\uAE00\uC528\uD06C\uAE30": 14
   "\uBCF8\uC778\uD14D\uC2A4\uD2B8": {fileID: 370007421}
 --- !u!1 &370219190
 GameObject:
@@ -6009,6 +6039,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 922857025}
   "\uC790\uAE30\uBC88\uD638": 9
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &384820789
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6313,6 +6345,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 120747107}
   "\uC790\uAE30\uBC88\uD638": 0
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &404514310
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6598,7 +6632,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 450, y: 65}
+  m_SizeDelta: {x: 450, y: 95}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &418569134
 MonoBehaviour:
@@ -6748,7 +6782,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 450, y: 90}
+  m_SizeDelta: {x: 450, y: 65}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &426232158
 MonoBehaviour:
@@ -6917,6 +6951,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 0}
   "\uC790\uAE30\uBC88\uD638": 16
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &426884667
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7449,6 +7485,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 560121292}
   "\uC790\uAE30\uBC88\uD638": 33
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &496396229
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7763,6 +7801,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 540516931}
   "\uC790\uAE30\uBC88\uD638": 22
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &520746263
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7929,7 +7969,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "(\uD765\uC5BC\uAC70\uB9BC)"
+  m_Text: "\uBC14\uBCF4"
 --- !u!222 &533412578
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -7950,8 +7990,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 751a4a1f7526e7f4f8b5d659cf9eb627, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Ko: "(\uD765\uC5BC\uAC70\uB9BC)"
-  En: (to hum)
+  Ko: "\uBC14\uBCF4"
+  En: Dumbass
   "\uAE00\uC528\uD06C\uAE30": 15
   "\uBCF8\uC778\uD14D\uC2A4\uD2B8": {fileID: 533412577}
 --- !u!1 &537612274
@@ -8316,6 +8356,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 0}
   "\uC790\uAE30\uBC88\uD638": 24
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &542221572
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8620,6 +8662,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 997620662}
   "\uC790\uAE30\uBC88\uD638": 12
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &550078814
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9097,6 +9141,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 201815410}
   "\uC790\uAE30\uBC88\uD638": 4
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &571564124
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9330,6 +9376,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
   "\uBD80\uBAA8": {fileID: 0}
   "\uC790\uAE30\uBC88\uD638": 0
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &594505577
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9475,7 +9523,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fde7e3e7ade89b643af92bcec8ccdcaa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  "\uC571\uC885\uB958": 0
   currentState: 1
+  "\uC990\uACA8\uCC3E\uAE30\uBC29\uAD11\uACE0\uD31D\uC5C5": {fileID: 0}
+  "\uC990\uACA8\uCC3E\uAE30\uBC29\uAD11\uACE0\uC2E4\uD328\uD31D\uC5C5": {fileID: 0}
 --- !u!114 &604256573
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9867,7 +9918,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 15
+    m_FontSize: 14
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 1
@@ -9878,7 +9929,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uD544\uC694\uC5C6\uB2E4\uB2C8..?"
+  m_Text: "\uD63C\uC790\uC11C\uB294 \uC678\uCD9C\uB3C4 \n\uBABB\uD558\uB294 \uAC70\uB0D0?"
 --- !u!222 &617247799
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -9899,9 +9950,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 751a4a1f7526e7f4f8b5d659cf9eb627, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Ko: "\uD544\uC694\uC5C6\uB2E4\uB2C8..?"
-  En: "What do you mean \nyou don't need it..?"
-  "\uAE00\uC528\uD06C\uAE30": 15
+  Ko: "\uD63C\uC790\uC11C\uB294 \uC678\uCD9C\uB3C4 \n\uBABB\uD558\uB294 \uAC70\uB0D0?"
+  En: "You're not enen allowed \nto go out on your own?"
+  "\uAE00\uC528\uD06C\uAE30": 14
   "\uBCF8\uC778\uD14D\uC2A4\uD2B8": {fileID: 617247798}
 --- !u!1 &620809016
 GameObject:
@@ -9963,6 +10014,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 0}
   "\uC790\uAE30\uBC88\uD638": 28
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &620809019
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10098,7 +10151,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 450, y: 90}
+  m_SizeDelta: {x: 450, y: 65}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &665758276
 MonoBehaviour:
@@ -10398,7 +10451,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 450, y: 90}
+  m_SizeDelta: {x: 450, y: 95}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &672848615
 MonoBehaviour:
@@ -10567,6 +10620,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 665758274}
   "\uC790\uAE30\uBC88\uD638": 18
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &674159443
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10779,8 +10834,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.42200002}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 75, y: -77}
-  m_SizeDelta: {x: 129.2864, y: 45.5788}
+  m_AnchoredPosition: {x: 75, y: -103}
+  m_SizeDelta: {x: 129.2864, y: 34}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &690007502
 MonoBehaviour:
@@ -10895,6 +10950,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
   "\uBD80\uBAA8": {fileID: 0}
   "\uC790\uAE30\uBC88\uD638": 0
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!1 &705826931
 GameObject:
   m_ObjectHideFlags: 0
@@ -11031,6 +11088,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 2090669876}
   "\uC790\uAE30\uBC88\uD638": 17
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &713043010
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11185,6 +11244,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 44174529}
   "\uC790\uAE30\uBC88\uD638": 20
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &721608769
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11492,7 +11553,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 15
+    m_FontSize: 12
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 1
@@ -11503,8 +11564,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uB098\uB294 \uB0A8\uC790\uC640 \uC2F8\uC6B0\uBA74 \n\uACE0\uAC04 \uBC16\uC5D0
-    \uC548 \uB178\uB9AC\uAC70\uB4E0"
+  m_Text: "\uB09C \uC8FD\uC744 \uB54C\uAE4C\uC9C0 \uC5EC\uC790\uB791 \n\uC0AC\uADC0\uC9C0\uB3C4
+    \uBABB\uD558\uACA0\uC9C0"
 --- !u!222 &727013471
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -11525,10 +11586,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 751a4a1f7526e7f4f8b5d659cf9eb627, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Ko: "\uB098\uB294 \uB0A8\uC790\uC640 \uC2F8\uC6B0\uBA74 \n\uACE0\uAC04 \uBC16\uC5D0
-    \uC548 \uB178\uB9AC\uAC70\uB4E0"
-  En: "When. fight a dude, \nI only go for the balls"
-  "\uAE00\uC528\uD06C\uAE30": 15
+  Ko: "\uB09C \uC8FD\uC744 \uB54C\uAE4C\uC9C0 \uC5EC\uC790\uB791 \n\uC0AC\uADC0\uC9C0\uB3C4
+    \uBABB\uD558\uACA0\uC9C0"
+  En: "Probably gonna die without \never having a girlfriend, too"
+  "\uAE00\uC528\uD06C\uAE30": 12
   "\uBCF8\uC778\uD14D\uC2A4\uD2B8": {fileID: 727013470}
 --- !u!1 &748214884
 GameObject:
@@ -11602,7 +11663,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uC798\uBA39\uACA0\uC2B5\uB2C8\uB2E4"
+  m_Text: "\uC804\uD600"
 --- !u!222 &748214887
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -11623,8 +11684,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 751a4a1f7526e7f4f8b5d659cf9eb627, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Ko: "\uC798\uBA39\uACA0\uC2B5\uB2C8\uB2E4"
-  En: For the meal
+  Ko: "\uC804\uD600"
+  En: No way
   "\uAE00\uC528\uD06C\uAE30": 15
   "\uBCF8\uC778\uD14D\uC2A4\uD2B8": {fileID: 748214886}
 --- !u!1 &775537558
@@ -11687,6 +11748,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 1250894918}
   "\uC790\uAE30\uBC88\uD638": 34
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &775537561
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11822,7 +11885,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 450, y: 65}
+  m_SizeDelta: {x: 450, y: 95}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &778839321
 MonoBehaviour:
@@ -12067,6 +12130,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 0}
   "\uC790\uAE30\uBC88\uD638": 23
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &808624887
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12202,7 +12267,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 450, y: 90}
+  m_SizeDelta: {x: 450, y: 95}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &812424915
 MonoBehaviour:
@@ -12386,7 +12451,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -1008.4692}
+  m_AnchoredPosition: {x: 0, y: -1043.4697}
   m_SizeDelta: {x: 480, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &813172326
@@ -12755,6 +12820,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 0}
   "\uC790\uAE30\uBC88\uD638": 9
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &876101815
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12887,8 +12954,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.42200002}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -75, y: -77}
-  m_SizeDelta: {x: 129.2864, y: 45.5788}
+  m_AnchoredPosition: {x: -75, y: -103}
+  m_SizeDelta: {x: 129.2864, y: 34}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &878481247
 MonoBehaviour:
@@ -13003,6 +13070,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 0}
   "\uC790\uAE30\uBC88\uD638": 0
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!1 &903533266
 GameObject:
   m_ObjectHideFlags: 0
@@ -13063,6 +13132,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 480198704}
   "\uC790\uAE30\uBC88\uD638": 26
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &903533269
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13555,6 +13626,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 0}
   "\uC790\uAE30\uBC88\uD638": 10
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &932000938
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13721,7 +13794,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uC88B\uC9C0?"
+  m_Text: "\uC619?"
 --- !u!222 &937316639
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -13742,8 +13815,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 751a4a1f7526e7f4f8b5d659cf9eb627, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Ko: "\uC88B\uC9C0?"
-  En: Sounds sweet, right?
+  Ko: "\uC619?"
+  En: yes?
   "\uAE00\uC528\uD06C\uAE30": 15
   "\uBCF8\uC778\uD14D\uC2A4\uD2B8": {fileID: 937316638}
 --- !u!1 &943322512
@@ -13818,7 +13891,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uCD5C\uAC15\uC758 \uBE75\uC774\n\uC644\uC131\uB418\uC5B4\uBC84\uB838\uB2E4\uACE0"
+  m_Text: "\uC74C! \uB9DB\uC788\uB2E4!"
 --- !u!222 &943322515
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -13839,8 +13912,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 751a4a1f7526e7f4f8b5d659cf9eb627, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Ko: "\uCD5C\uAC15\uC758 \uBE75\uC774\n\uC644\uC131\uB418\uC5B4\uBC84\uB838\uB2E4\uACE0"
-  En: "This is now the \nultimate slice of toast"
+  Ko: "\uC74C! \uB9DB\uC788\uB2E4!"
+  En: So good!
   "\uAE00\uC528\uD06C\uAE30": 15
   "\uBCF8\uC778\uD14D\uC2A4\uD2B8": {fileID: 943322514}
 --- !u!1 &947045302
@@ -13915,7 +13988,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uC9C4\uC9DC\uC785\uB2C8\uAE4C?"
+  m_Text: "\uC0AC\uB78C\uC744 \uBB34\uC2A8 \uAC1C\uCC98\uB7FC \n\uCDE8\uAE09\uD558\uACE0
+    \uB9D0\uC57C.."
 --- !u!222 &947045305
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -13936,8 +14010,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 751a4a1f7526e7f4f8b5d659cf9eb627, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Ko: "\uC9C4\uC9DC\uC785\uB2C8\uAE4C?"
-  En: For real?
+  Ko: "\uC0AC\uB78C\uC744 \uBB34\uC2A8 \uAC1C\uCC98\uB7FC \n\uCDE8\uAE09\uD558\uACE0
+    \uB9D0\uC57C.."
+  En: "Treating me like a \ndamn dog"
   "\uAE00\uC528\uD06C\uAE30": 15
   "\uBCF8\uC778\uD14D\uC2A4\uD2B8": {fileID: 947045304}
 --- !u!1 &950843211
@@ -14000,6 +14075,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 40976934}
   "\uC790\uAE30\uBC88\uD638": 21
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &950843214
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14503,141 +14580,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 978892597}
   m_CullTransparentMesh: 1
---- !u!1 &986113298
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 986113299}
-  - component: {fileID: 986113301}
-  - component: {fileID: 986113300}
-  m_Layer: 5
-  m_Name: Text (TMP)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &986113299
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 986113298}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1378957169}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &986113300
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 986113298}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_text: Button
-  m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_fontSharedMaterials: []
-  m_fontMaterial: {fileID: 0}
-  m_fontMaterials: []
-  m_fontColor32:
-    serializedVersion: 2
-    rgba: 4281479730
-  m_fontColor: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
-  m_enableVertexGradient: 0
-  m_colorMode: 3
-  m_fontColorGradient:
-    topLeft: {r: 1, g: 1, b: 1, a: 1}
-    topRight: {r: 1, g: 1, b: 1, a: 1}
-    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
-    bottomRight: {r: 1, g: 1, b: 1, a: 1}
-  m_fontColorGradientPreset: {fileID: 0}
-  m_spriteAsset: {fileID: 0}
-  m_tintAllSprites: 0
-  m_StyleSheet: {fileID: 0}
-  m_TextStyleHashCode: -1183493901
-  m_overrideHtmlColors: 0
-  m_faceColor:
-    serializedVersion: 2
-    rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
-  m_fontWeight: 400
-  m_enableAutoSizing: 0
-  m_fontSizeMin: 18
-  m_fontSizeMax: 72
-  m_fontStyle: 0
-  m_HorizontalAlignment: 2
-  m_VerticalAlignment: 512
-  m_textAlignment: 65535
-  m_characterSpacing: 0
-  m_wordSpacing: 0
-  m_lineSpacing: 0
-  m_lineSpacingMax: 0
-  m_paragraphSpacing: 0
-  m_charWidthMaxAdj: 0
-  m_enableWordWrapping: 1
-  m_wordWrappingRatios: 0.4
-  m_overflowMode: 0
-  m_linkedTextComponent: {fileID: 0}
-  parentLinkedComponent: {fileID: 0}
-  m_enableKerning: 1
-  m_enableExtraPadding: 0
-  checkPaddingRequired: 0
-  m_isRichText: 1
-  m_parseCtrlCharacters: 1
-  m_isOrthographic: 1
-  m_isCullingEnabled: 0
-  m_horizontalMapping: 0
-  m_verticalMapping: 0
-  m_uvLineOffset: 0
-  m_geometrySortingOrder: 0
-  m_IsTextObjectScaleStatic: 0
-  m_VertexBufferAutoSizeReduction: 0
-  m_useMaxVisibleDescender: 1
-  m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
-  m_isUsingLegacyAnimationComponent: 0
-  m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
-  m_baseMaterial: {fileID: 0}
-  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
---- !u!222 &986113301
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 986113298}
-  m_CullTransparentMesh: 1
 --- !u!1 &997620662
 GameObject:
   m_ObjectHideFlags: 0
@@ -15100,6 +15042,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 0}
   "\uC790\uAE30\uBC88\uD638": 29
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1069790314
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15238,6 +15182,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 90ec1f192ee0010489a0c832bcb9d825, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  "\uC0C9\uC0C1\uAC12": {r: 0.8352942, g: 0.7137255, b: 0.5372549, a: 0}
+  "\uBC29\uC885\uB958\uD568\uC218": 0
   "\uACF5\uC720\uAE30\uB2A5\uD31D\uC5C5": {fileID: 1108972930}
   "\uC990\uACA8\uCC3E\uAE30\uAC1C\uBC29\uCC3D": {fileID: 1323730557}
   "\uC218\uD37C\uB3D9\uAE30\uD654": 
@@ -15292,6 +15238,17 @@ MonoBehaviour:
   "\uAD11\uACE0\uC2E4\uD328\uCC3D\uD655\uC778\uD14D\uC2A4\uD2B8": {fileID: 321003374}
   "\uC990\uACA8\uCC3E\uAE30bool": 0000000000000000000000000000000000000000
   "\uC990\uACA8\uCC3E\uAE30\uB05D": 0
+  "\uBE44\uB514\uC624\uD504\uB9AC\uD69F\uC218": 2
+  "\uCF00\uB9AD\uD130\uCD5C\uB300\uD69F\uC218": 5
+  "\uC18C\uB9AC\uC7AC\uC0DD\uC2A4\uD06C\uB9BD\uBC88\uC5ED\uCABD": {fileID: 1742291824}
+  "\uD788\uD1A0\uB9AC\uC774\uBBF8\uC9C0": {fileID: 0}
+  "\uB2C8\uC9C0\uCE74\uC774\uBBF8\uC9C0": {fileID: 0}
+  "\uB8CC\uC774\uBBF8\uC9C0": {fileID: 0}
+  "\uC138\uC774\uCE74\uC774\uBBF8\uC9C0": {fileID: 0}
+  "\uB374\uC9C0\uC774\uBBF8\uC9C0": {fileID: 0}
+  "\uC544\uD0A4\uC774\uBBF8\uC9C0": {fileID: 0}
+  "\uB9C8\uD0A4\uB9C8\uC774\uBBF8\uC9C0": {fileID: 0}
+  "\uD30C\uC6CC\uC774\uBBF8\uC9C0": {fileID: 0}
 --- !u!1 &1086127451
 GameObject:
   m_ObjectHideFlags: 0
@@ -15579,7 +15536,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 12
+    m_FontSize: 15
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 1
@@ -15590,8 +15547,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uC575\uAC04\uD55C \uBD80\uC870\uB9AC\uB294 \uC5BC\uAD74\uB9CC \n\uC774\uC058\uBA74
-    \uC6A9\uC11C\uD560 \uC218 \uC788\uC5B4"
+  m_Text: "\uC9C4\uC9DC\uC785\uB2C8\uAE4C?"
 --- !u!222 &1095841360
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -15612,10 +15568,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 751a4a1f7526e7f4f8b5d659cf9eb627, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Ko: "\uC575\uAC04\uD55C \uBD80\uC870\uB9AC\uB294 \uC5BC\uAD74\uB9CC \n\uC774\uC058\uBA74
-    \uC6A9\uC11C\uD560 \uC218 \uC788\uC5B4"
-  En: "I can put up with crazy, \nas long as she's hot enough"
-  "\uAE00\uC528\uD06C\uAE30": 12
+  Ko: "\uC9C4\uC9DC\uC785\uB2C8\uAE4C?"
+  En: For real?
+  "\uAE00\uC528\uD06C\uAE30": 15
   "\uBCF8\uC778\uD14D\uC2A4\uD2B8": {fileID: 1095841359}
 --- !u!1 &1108937541
 GameObject:
@@ -15851,6 +15806,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 0}
   "\uC790\uAE30\uBC88\uD638": 27
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1122662768
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16005,6 +15962,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 0}
   "\uC790\uAE30\uBC88\uD638": 21
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1130020078
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16309,6 +16268,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 1281196944}
   "\uC790\uAE30\uBC88\uD638": 31
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1160546986
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16463,6 +16424,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 0}
   "\uC790\uAE30\uBC88\uD638": 17
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1162371448
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16618,7 +16581,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 13
+    m_FontSize: 15
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 1
@@ -16629,7 +16592,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uC624\uB298 \uC800\uB141\uC740 \n\uC2DD\uBE75 \uD55C\uC7A5\uC774\uB79C\uB2E4 "
+  m_Text: "\uC800 \uB3C8 \uC5C6\uB294\uB370\uC694"
 --- !u!222 &1167986769
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -16650,9 +16613,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 751a4a1f7526e7f4f8b5d659cf9eb627, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Ko: "\uC624\uB298 \uC800\uB141\uC740 \uC2DD\uBE75 \uD55C\uC7A5\uC774\uB79C\uB2E4 "
-  En: "Looks like dinner's \ngonna be a slice of bread"
-  "\uAE00\uC528\uD06C\uAE30": 13
+  Ko: "\uC800 \uB3C8 \uC5C6\uB294\uB370\uC694"
+  En: I don't have any cash
+  "\uAE00\uC528\uD06C\uAE30": 15
   "\uBCF8\uC778\uD14D\uC2A4\uD2B8": {fileID: 1167986768}
 --- !u!1 &1177134204
 GameObject:
@@ -16714,6 +16677,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 0}
   "\uC790\uAE30\uBC88\uD638": 5
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1177134207
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17020,6 +16985,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 99981438}
   "\uC790\uAE30\uBC88\uD638": 6
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1203955495
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17324,6 +17291,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 0}
   "\uC790\uAE30\uBC88\uD638": 20
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1223300955
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17792,7 +17761,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uCC38 \uC774\uC0C1\uD558\uC9C0"
+  m_Text: "\uC798\uBA39\uACA0\uC2B5\uB2C8\uB2E4"
 --- !u!222 &1259132131
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -17813,8 +17782,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 751a4a1f7526e7f4f8b5d659cf9eb627, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Ko: "\uCC38 \uC774\uC0C1\uD558\uC9C0"
-  En: funny how that works
+  Ko: "\uC798\uBA39\uACA0\uC2B5\uB2C8\uB2E4"
+  En: For the meal
   "\uAE00\uC528\uD06C\uAE30": 15
   "\uBCF8\uC778\uD14D\uC2A4\uD2B8": {fileID: 1259132130}
 --- !u!1 &1264573881
@@ -18261,7 +18230,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 14
+    m_FontSize: 15
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 1
@@ -18272,7 +18241,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uC5B4\uB5A0\uB0D0!, \uB300\uB2E8\uD558\uC9C0"
+  m_Text: "\uADF8\uB534 \uC124\uC815 \uC5C6\uAC70\uB4E0"
 --- !u!222 &1310763767
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -18293,9 +18262,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 751a4a1f7526e7f4f8b5d659cf9eb627, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Ko: "\uC5B4\uB5A0\uB0D0! \uB300\uB2E8\uD558\uC9C0"
-  En: "Damn right! pretty \nawesome"
-  "\uAE00\uC528\uD06C\uAE30": 12
+  Ko: "\uADF8\uB534 \uC124\uC815 \uC5C6\uAC70\uB4E0"
+  En: No one ever said that!
+  "\uAE00\uC528\uD06C\uAE30": 15
   "\uBCF8\uC778\uD14D\uC2A4\uD2B8": {fileID: 1310763766}
 --- !u!1 &1323730557
 GameObject:
@@ -18510,6 +18479,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 812424913}
   "\uC790\uAE30\uBC88\uD638": 2
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1359338737
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18664,6 +18635,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 0}
   "\uC790\uAE30\uBC88\uD638": 25
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1359791411
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18864,8 +18837,7 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 986113299}
+  m_Children: []
   m_Father: {fileID: 1662936002}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -19202,6 +19174,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 0}
   "\uC790\uAE30\uBC88\uD638": 13
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1412732239
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19444,7 +19418,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uC74C! \uB9DB\uC788\uB2E4!"
+  m_Text: "\uC8C4\uC1A1\uD569\uB2C8\uB2E4"
 --- !u!222 &1470314808
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -19465,8 +19439,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 751a4a1f7526e7f4f8b5d659cf9eb627, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Ko: "\uC74C! \uB9DB\uC788\uB2E4!"
-  En: So good!
+  Ko: "\uC8C4\uC1A1\uD569\uB2C8\uB2E4"
+  En: I'm sorry
   "\uAE00\uC528\uD06C\uAE30": 15
   "\uBCF8\uC778\uD14D\uC2A4\uD2B8": {fileID: 1470314807}
 --- !u!1 &1470434523
@@ -19541,7 +19515,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uC619"
+  m_Text: "\uD544\uC694\uC5C6\uB2E4\uB2C8..?"
 --- !u!222 &1470434526
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -19562,8 +19536,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 751a4a1f7526e7f4f8b5d659cf9eb627, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Ko: "\uC619"
-  En: yes
+  Ko: "\uD544\uC694\uC5C6\uB2E4\uB2C8..?"
+  En: "What do you mean \nyou don't need it?"
   "\uAE00\uC528\uD06C\uAE30": 15
   "\uBCF8\uC778\uD14D\uC2A4\uD2B8": {fileID: 1470434525}
 --- !u!1 &1471524124
@@ -19814,6 +19788,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 1948792179}
   "\uC790\uAE30\uBC88\uD638": 3
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1488118860
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20119,7 +20095,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 15
+    m_FontSize: 12
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 1
@@ -20130,7 +20106,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uC5B4\uC9F8\uC120\uB370.."
+  m_Text: "\uC575\uAC04\uD55C \uBD80\uC870\uB9AC\uB294 \uC5BC\uAD74\uB9CC \n\uC774\uC058\uBA74
+    \uC6A9\uC11C\uD560 \uC218 \uC788\uC5B4"
 --- !u!222 &1497431771
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -20151,9 +20128,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 751a4a1f7526e7f4f8b5d659cf9eb627, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Ko: "\uC5B4\uC9F8\uC120\uB370.."
-  En: why..
-  "\uAE00\uC528\uD06C\uAE30": 15
+  Ko: "\uC575\uAC04\uD55C \uBD80\uC870\uB9AC\uB294 \uC5BC\uAD74\uB9CC \n\uC774\uC058\uBA74
+    \uC6A9\uC11C\uD560 \uC218 \uC788\uC5B4"
+  En: "I can put up with crazy, \nas long as she's hot enough"
+  "\uAE00\uC528\uD06C\uAE30": 12
   "\uBCF8\uC778\uD14D\uC2A4\uD2B8": {fileID: 1497431770}
 --- !u!1 &1498281648
 GameObject:
@@ -20291,6 +20269,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 778839319}
   "\uC790\uAE30\uBC88\uD638": 7
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1503006645
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20671,6 +20651,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 418569132}
   "\uC790\uAE30\uBC88\uD638": 10
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1537376484
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21074,6 +21056,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 0}
   "\uC790\uAE30\uBC88\uD638": 34
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1643420959
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21733,6 +21717,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 0}
   "\uC790\uAE30\uBC88\uD638": 26
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1685886169
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21963,6 +21949,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 547320579}
   "\uC790\uAE30\uBC88\uD638": 1
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1694330657
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22117,6 +22105,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 0}
   "\uC790\uAE30\uBC88\uD638": 31
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1700253553
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22427,6 +22417,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 0}
   "\uC790\uAE30\uBC88\uD638": 22
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1734918695
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22657,6 +22649,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 0}
   "\uC790\uAE30\uBC88\uD638": 12
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1737185113
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22811,6 +22805,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 0}
   "\uC790\uAE30\uBC88\uD638": 3
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1739021743
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23048,55 +23044,55 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   "\uC18C\uB9AC": {fileID: 1742291822}
   "\uD074\uB9BD\uB4E4":
-  - {fileID: 8300000, guid: 659363a12355ac8448f54f4e166bf582, type: 3}
-  - {fileID: 8300000, guid: fdf8594b6f3f4714aba063629ff6b218, type: 3}
-  - {fileID: 8300000, guid: 601c87aa97225384f9565a056019ee63, type: 3}
-  - {fileID: 8300000, guid: c56da298fced946489da76bfc068793e, type: 3}
   - {fileID: 8300000, guid: 60aaa07a140fd684abba8e55d92ffa7d, type: 3}
-  - {fileID: 8300000, guid: 796711cdd7a8dae4b9e1f58f86e49793, type: 3}
-  - {fileID: 8300000, guid: 79473efe0aa64df46a2ea5da1a37a3b4, type: 3}
+  - {fileID: 8300000, guid: 659363a12355ac8448f54f4e166bf582, type: 3}
+  - {fileID: 8300000, guid: c56da298fced946489da76bfc068793e, type: 3}
+  - {fileID: 8300000, guid: 601c87aa97225384f9565a056019ee63, type: 3}
   - {fileID: 8300000, guid: ef569b27358564747ba9aff3511667f5, type: 3}
-  - {fileID: 8300000, guid: 78ddc900132b79a4788cf19f61dcc5bd, type: 3}
-  - {fileID: 8300000, guid: c741dc91f2340b5439ef5db8fdbebc10, type: 3}
-  - {fileID: 8300000, guid: 4ec90d750082c0a40bb876d1284e6666, type: 3}
-  - {fileID: 8300000, guid: 3349460f07280444b8eebabf9b174204, type: 3}
-  - {fileID: 8300000, guid: 4ef75e6d4eb700a42a9eb11709208c65, type: 3}
-  - {fileID: 8300000, guid: 5e8fdb46e8a660a468cfcaad18212448, type: 3}
-  - {fileID: 8300000, guid: 99915aa3bc5b2c642b21a6e1f5cd70b7, type: 3}
-  - {fileID: 8300000, guid: 000a6b664e23e17459e1dbe448e39a31, type: 3}
-  - {fileID: 8300000, guid: 340e62d325e94914291f917a3eab60eb, type: 3}
   - {fileID: 8300000, guid: bd41f5042bac70244a376d29a373e9e8, type: 3}
   - {fileID: 8300000, guid: 16f81b59c2138654696b0b1bb3974382, type: 3}
-  - {fileID: 8300000, guid: ff1268bb9a33b9c41810e6add468b540, type: 3}
-  - {fileID: 8300000, guid: 4556557beb38bd44d8009c1e4cfa9665, type: 3}
+  - {fileID: 8300000, guid: fdf8594b6f3f4714aba063629ff6b218, type: 3}
+  - {fileID: 8300000, guid: 79473efe0aa64df46a2ea5da1a37a3b4, type: 3}
   - {fileID: 8300000, guid: 227229ce6593087429493b1ddc9106f7, type: 3}
+  - {fileID: 8300000, guid: 5e8fdb46e8a660a468cfcaad18212448, type: 3}
+  - {fileID: 8300000, guid: 340e62d325e94914291f917a3eab60eb, type: 3}
+  - {fileID: 8300000, guid: 99915aa3bc5b2c642b21a6e1f5cd70b7, type: 3}
+  - {fileID: 8300000, guid: 000a6b664e23e17459e1dbe448e39a31, type: 3}
+  - {fileID: 8300000, guid: 78ddc900132b79a4788cf19f61dcc5bd, type: 3}
+  - {fileID: 8300000, guid: c741dc91f2340b5439ef5db8fdbebc10, type: 3}
   - {fileID: 8300000, guid: 4a6791d35208e05469b79058bc542fe2, type: 3}
+  - {fileID: 8300000, guid: ff1268bb9a33b9c41810e6add468b540, type: 3}
+  - {fileID: 8300000, guid: 796711cdd7a8dae4b9e1f58f86e49793, type: 3}
+  - {fileID: 8300000, guid: 4ef75e6d4eb700a42a9eb11709208c65, type: 3}
+  - {fileID: 8300000, guid: 3349460f07280444b8eebabf9b174204, type: 3}
   - {fileID: 8300000, guid: 096b21df4fca8cd48aa2977fbe318d1d, type: 3}
+  - {fileID: 8300000, guid: 4ec90d750082c0a40bb876d1284e6666, type: 3}
+  - {fileID: 8300000, guid: 4556557beb38bd44d8009c1e4cfa9665, type: 3}
   "\uD074\uB9BD\uACF5\uC720\uC6A9\uB4E4":
-  - {fileID: 4900000, guid: e8cb383f699ae43489520037436366df, type: 3}
-  - {fileID: 4900000, guid: 91ec7a00e42904645bca67c4613a2d18, type: 3}
-  - {fileID: 4900000, guid: cc1ad0dbc43adaa499f2a5386ca20649, type: 3}
-  - {fileID: 4900000, guid: a232b20589872de4290f21b537d576fd, type: 3}
   - {fileID: 4900000, guid: 1a562b4e86bb7144ea3f99cb4a906c6b, type: 3}
-  - {fileID: 4900000, guid: 38dd9a6827b9a4a4cbf7f716d320ef45, type: 3}
-  - {fileID: 4900000, guid: 487e7cc064aa5bf41adc4a03137c8d59, type: 3}
+  - {fileID: 4900000, guid: e8cb383f699ae43489520037436366df, type: 3}
+  - {fileID: 4900000, guid: a232b20589872de4290f21b537d576fd, type: 3}
+  - {fileID: 4900000, guid: cc1ad0dbc43adaa499f2a5386ca20649, type: 3}
   - {fileID: 4900000, guid: 06d8b7edb0465f64a94023f70a7bc452, type: 3}
-  - {fileID: 4900000, guid: bc59f9da475b6694186852a76b8bb225, type: 3}
-  - {fileID: 4900000, guid: cbd3bf8624f64c342855b311b82de818, type: 3}
-  - {fileID: 4900000, guid: 7bfc99a8300d0cb488404a282fa1c2fa, type: 3}
-  - {fileID: 4900000, guid: 2c08dc5cefab454449ff317b99d35b35, type: 3}
-  - {fileID: 4900000, guid: b298f5b7a4a0a474ca18cc9577233444, type: 3}
-  - {fileID: 4900000, guid: 5b1e6e70163b54f4cb5bf40ebf25b89b, type: 3}
-  - {fileID: 4900000, guid: 8d10cdf276d25e347bc9c8e6df648b3e, type: 3}
-  - {fileID: 4900000, guid: 0b5b695c206277b47a548c28707f1e04, type: 3}
-  - {fileID: 4900000, guid: 5c9481e74ab9d594b8bedfe9cab40534, type: 3}
   - {fileID: 4900000, guid: 14844d5a83e0bcf4594ba0b5146f9f04, type: 3}
   - {fileID: 4900000, guid: 0668951a7623677418dc610714b1af96, type: 3}
-  - {fileID: 4900000, guid: 185532057d61d0a4ab0fb5cf738bb4a1, type: 3}
-  - {fileID: 4900000, guid: a9cea6254249165428e93c7dd885cfa9, type: 3}
+  - {fileID: 4900000, guid: 91ec7a00e42904645bca67c4613a2d18, type: 3}
+  - {fileID: 4900000, guid: 487e7cc064aa5bf41adc4a03137c8d59, type: 3}
   - {fileID: 4900000, guid: ff0d6e3baa0a59445ad0ba21b168b3f2, type: 3}
+  - {fileID: 4900000, guid: 5b1e6e70163b54f4cb5bf40ebf25b89b, type: 3}
+  - {fileID: 4900000, guid: 5c9481e74ab9d594b8bedfe9cab40534, type: 3}
+  - {fileID: 4900000, guid: 8d10cdf276d25e347bc9c8e6df648b3e, type: 3}
+  - {fileID: 4900000, guid: 0b5b695c206277b47a548c28707f1e04, type: 3}
+  - {fileID: 4900000, guid: bc59f9da475b6694186852a76b8bb225, type: 3}
+  - {fileID: 4900000, guid: cbd3bf8624f64c342855b311b82de818, type: 3}
   - {fileID: 4900000, guid: 3c48a1953e68d5d40ba4ad5d1d3f7960, type: 3}
+  - {fileID: 4900000, guid: 185532057d61d0a4ab0fb5cf738bb4a1, type: 3}
+  - {fileID: 4900000, guid: 38dd9a6827b9a4a4cbf7f716d320ef45, type: 3}
+  - {fileID: 4900000, guid: b298f5b7a4a0a474ca18cc9577233444, type: 3}
+  - {fileID: 4900000, guid: 2c08dc5cefab454449ff317b99d35b35, type: 3}
   - {fileID: 4900000, guid: c8e1ffbcf92b9de429c166c01877437b, type: 3}
+  - {fileID: 4900000, guid: 7bfc99a8300d0cb488404a282fa1c2fa, type: 3}
+  - {fileID: 4900000, guid: a9cea6254249165428e93c7dd885cfa9, type: 3}
 --- !u!1 &1743424579
 GameObject:
   m_ObjectHideFlags: 0
@@ -23535,6 +23531,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 0}
   "\uC790\uAE30\uBC88\uD638": 30
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1807167346
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23765,6 +23763,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 0}
   "\uC790\uAE30\uBC88\uD638": 19
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1813453695
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24071,6 +24071,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 1861538251}
   "\uC790\uAE30\uBC88\uD638": 28
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1835549272
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24307,7 +24309,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 15
+    m_FontSize: 14
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 1
@@ -24318,7 +24320,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uBC14\uBCF4"
+  m_Text: "\uC5B4\uB5A0\uB0D0! \uB300\uB2E8\uD558\uC9C0"
 --- !u!222 &1851725862
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -24339,9 +24341,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 751a4a1f7526e7f4f8b5d659cf9eb627, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Ko: "\uBC14\uBCF4"
-  En: Dumbass
-  "\uAE00\uC528\uD06C\uAE30": 15
+  Ko: "\uC5B4\uB5A0\uB0D0! \uB300\uB2E8\uD558\uC9C0"
+  En: "Damn right!  \npretty awesome"
+  "\uAE00\uC528\uD06C\uAE30": 14
   "\uBCF8\uC778\uD14D\uC2A4\uD2B8": {fileID: 1851725861}
 --- !u!1 &1858327893
 GameObject:
@@ -24403,6 +24405,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 1652048277}
   "\uC790\uAE30\uBC88\uD638": 29
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1858327896
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24557,6 +24561,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 0}
   "\uC790\uAE30\uBC88\uD638": 6
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1859587764
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24861,6 +24867,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 397536730}
   "\uC790\uAE30\uBC88\uD638": 16
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1861680188
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25015,6 +25023,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 0}
   "\uC790\uAE30\uBC88\uD638": 8
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1867557932
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25181,7 +25191,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uC804\uD600"
+  m_Text: "\uC5B4\uC9F8\uC120\uB370"
 --- !u!222 &1878590682
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -25202,8 +25212,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 751a4a1f7526e7f4f8b5d659cf9eb627, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Ko: "\uC804\uD600"
-  En: No way
+  Ko: "\uC5B4\uC9F8\uC120\uB370"
+  En: Why
   "\uAE00\uC528\uD06C\uAE30": 15
   "\uBCF8\uC778\uD14D\uC2A4\uD2B8": {fileID: 1878590681}
 --- !u!1 &1882701101
@@ -25487,6 +25497,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 0}
   "\uC790\uAE30\uBC88\uD638": 4
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1919708246
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25641,6 +25653,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 50401404}
   "\uC790\uAE30\uBC88\uD638": 11
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1920944057
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25795,6 +25809,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 1522325359}
   "\uC790\uAE30\uBC88\uD638": 14
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1926299705
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25947,7 +25963,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: b49034699615ad141b5926e75742a0bf, type: 3}
+  m_Sprite: {fileID: 21300000, guid: bb4eff94931c54f4488da598284e45b0, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -26026,7 +26042,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 14
+    m_FontSize: 15
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 1
@@ -26037,7 +26053,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uD63C\uC790\uC11C\uB294 \uC678\uCD9C\uB3C4 \n\uBABB\uD558\uB294 \uAC70\uB0D0?"
+  m_Text: "\uCD5C\uAC15\uC758 \uBE75\uC774 \n\uC644\uC131\uB418\uC5B4\uBC84\uB838\uB2E4\uACE0"
 --- !u!222 &1947932325
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -26058,11 +26074,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 751a4a1f7526e7f4f8b5d659cf9eb627, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Ko: "\uD63C\uC790\uC11C\uB294 \uC678\uCD9C\uB3C4 \uBABB\uD558\uB294 \uAC70\uB0D0?"
-  En: 'You''re not enen allowed
-
-    to go out on your own?'
-  "\uAE00\uC528\uD06C\uAE30": 14
+  Ko: "\uCD5C\uAC15\uC758 \uBE75\uC774 \n\uC644\uC131\uB418\uC5B4\uBC84\uB838\uB2E4\uACE0"
+  En: "This is now the \nultimate slice of toast"
+  "\uAE00\uC528\uD06C\uAE30": 15
   "\uBCF8\uC778\uD14D\uC2A4\uD2B8": {fileID: 1947932324}
 --- !u!1 &1948792179
 GameObject:
@@ -26105,7 +26119,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 450, y: 90}
+  m_SizeDelta: {x: 450, y: 95}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1948792181
 MonoBehaviour:
@@ -26255,7 +26269,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 450, y: 65}
+  m_SizeDelta: {x: 450, y: 95}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1956136797
 MonoBehaviour:
@@ -26425,7 +26439,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 15
+    m_FontSize: 13
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 1
@@ -26436,7 +26450,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uD558\uCC2E\uAD6C\uB9CC"
+  m_Text: "\uC624\uB298 \uC800\uB141\uC740 \n\uC2DD\uBE75 \uD55C\uC7A5\uC774\uB79C\uB2E4 "
 --- !u!222 &1970610671
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -26457,9 +26471,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 751a4a1f7526e7f4f8b5d659cf9eb627, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Ko: "\uD558\uCC2E\uAD6C\uB9CC"
-  En: That's dumb as hell
-  "\uAE00\uC528\uD06C\uAE30": 15
+  Ko: "\uC624\uB298 \uC800\uB141\uC740 \n\uC2DD\uBE75 \uD55C\uC7A5\uC774\uB79C\uB2E4 "
+  En: "Looks like dinner's \ngonna be a slice of bread"
+  "\uAE00\uC528\uD06C\uAE30": 13
   "\uBCF8\uC778\uD14D\uC2A4\uD2B8": {fileID: 1970610670}
 --- !u!1 &1973355487
 GameObject:
@@ -26521,6 +26535,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 0}
   "\uC790\uAE30\uBC88\uD638": 11
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1973355490
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26675,6 +26691,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 0}
   "\uC790\uAE30\uBC88\uD638": 35
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1983304641
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26829,6 +26847,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 173739278}
   "\uC790\uAE30\uBC88\uD638": 30
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1984663680
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26995,7 +27015,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uADF8\uB534 \uC124\uC815 \uC5C6\uAC70\uB4E0!"
+  m_Text: "(\uD765\uC5BC\uAC70\uB9BC)"
 --- !u!222 &1990705863
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -27016,8 +27036,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 751a4a1f7526e7f4f8b5d659cf9eb627, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Ko: "\uADF8\uB534 \uC124\uC815 \uC5C6\uAC70\uB4E0!"
-  En: No one ever said that!
+  Ko: "(\uD765\uC5BC\uAC70\uB9BC)"
+  En: (to hum)
   "\uAE00\uC528\uD06C\uAE30": 15
   "\uBCF8\uC778\uD14D\uC2A4\uD2B8": {fileID: 1990705862}
 --- !u!1 &1997574006
@@ -27058,8 +27078,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.42200002}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 75, y: -77}
-  m_SizeDelta: {x: 129.2864, y: 45.5788}
+  m_AnchoredPosition: {x: 75, y: -87.1053}
+  m_SizeDelta: {x: 129.2864, y: 65.7894}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1997574008
 MonoBehaviour:
@@ -27080,6 +27100,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
   "\uBD80\uBAA8": {fileID: 0}
   "\uC790\uAE30\uBC88\uD638": 0
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &1997574009
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27386,6 +27408,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 1095746700}
   "\uC790\uAE30\uBC88\uD638": 19
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &2010770584
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27696,6 +27720,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 0}
   "\uC790\uAE30\uBC88\uD638": 32
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &2041448628
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27850,6 +27876,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 2123885997}
   "\uC790\uAE30\uBC88\uD638": 15
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &2042155342
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28639,7 +28667,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 450, y: 90}
+  m_SizeDelta: {x: 450, y: 65}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2090669878
 MonoBehaviour:
@@ -28887,7 +28915,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 14
+    m_FontSize: 15
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 1
@@ -28898,8 +28926,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uC0AC\uB78C\uC744 \uBB34\uC2A8 \uAC1C\uCC98\uB7FC \n\uCDE8\uAE09\uD558\uACE0
-    \uB9D0\uC57C"
+  m_Text: "\uC8FD\uC5B4"
 --- !u!222 &2113469771
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -28920,12 +28947,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 751a4a1f7526e7f4f8b5d659cf9eb627, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Ko: "\uC0AC\uB78C\uC744 \uBB34\uC2A8 \uAC1C\uCC98\uB7FC \n\uCDE8\uAE09\uD558\uACE0
-    \uB9D0\uC57C"
-  En: 'Treating me like
-
-    a damn dog'
-  "\uAE00\uC528\uD06C\uAE30": 14
+  Ko: "\uC8FD\uC5B4"
+  En: You'll die!
+  "\uAE00\uC528\uD06C\uAE30": 15
   "\uBCF8\uC778\uD14D\uC2A4\uD2B8": {fileID: 2113469770}
 --- !u!1 &2122604865
 GameObject:
@@ -28987,6 +29011,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 0}
   "\uC790\uAE30\uBC88\uD638": 14
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &2122604868
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29368,6 +29394,8 @@ MonoBehaviour:
   "\uBC88\uC5ED\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 1081082555}
   "\uBD80\uBAA8": {fileID: 0}
   "\uC790\uAE30\uBC88\uD638": 0
+  "\uB370\uD0C0\uBCA0\uC774\uC2A4\uD06C\uB9BD\uD2B8": {fileID: 0}
+  "\uCF00\uB9AD\uD130\uB2F9\uC81C\uD55C": 5
 --- !u!114 &2132388703
 MonoBehaviour:
   m_ObjectHideFlags: 0
