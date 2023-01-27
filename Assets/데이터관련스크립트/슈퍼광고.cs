@@ -229,6 +229,10 @@ public class 슈퍼광고 : MonoBehaviour {
     }
     public void 즐겨찾기방입장리워드(object sender, Reward args)
     {
+        Invoke("잠시후이동", 0.1f);
+    }
+    public void 잠시후이동()
+    {
         SceneManager.LoadScene("즐겨찾기방");
     }
     public void 보상을받았나요(object sender, EventArgs args)

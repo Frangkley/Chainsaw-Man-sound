@@ -66,7 +66,7 @@ public class 메인전용 : MonoBehaviour
         }
         else
         {
-            if (n <= 40)
+            if (n <= 50)
             {
                 슈퍼광고.Instance().ShowInterstitialAd();
 

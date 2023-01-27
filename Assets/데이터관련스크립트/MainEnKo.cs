@@ -37,6 +37,8 @@ public class MainEnKo : MonoBehaviour
     public Text 결제성공내용확인;
     public GameObject 프리미엄구매아이콘;
     public GameObject 공지사항팝업창;
+    public Text 광고실패텍스트;
+    public Text 광고실패텍스트예;
     public string subject = "체인소맨 음성대사모음";
     public string body = "https://play.google.com/store/apps/details?id=com.frang.jojosound&hl=ko&gl=US";
     public void Awake()
@@ -129,7 +131,8 @@ public class MainEnKo : MonoBehaviour
         결제실패내용확인.text = "확인";
         결제성공내용.text = "결제 성공";
         결제성공내용확인.text = "확인";
-
+        광고실패텍스트.text = "광고 불러오기 실패\n\n인터넷 연결을 확인해주세요";
+        광고실패텍스트예.text = "확 인";
     }
     public void 영어공통()
     {
@@ -148,6 +151,9 @@ public class MainEnKo : MonoBehaviour
         결제실패내용확인.text = "O K";
         결제성공내용.text = "The bill has\n been paid";
         결제성공내용확인.text = "O K";
+        즐겨찾기.text = "Favorites";
+        광고실패텍스트.text = "Ad loading failed";
+        광고실패텍스트예.text = "O K";
 
     }
     public void 한글로()

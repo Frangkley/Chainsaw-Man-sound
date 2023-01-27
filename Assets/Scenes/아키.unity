@@ -9419,6 +9419,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0176630f868c45949b03273fadbd5e5e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  "\uBC30\uB108\uAD11\uACE0ID": ca-app-pub-8583528480029184/6318899712
 --- !u!114 &604256574
 MonoBehaviour:
   m_ObjectHideFlags: 0

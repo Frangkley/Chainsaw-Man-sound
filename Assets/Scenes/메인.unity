@@ -1738,7 +1738,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 1542b185d1e302e4ba4ac87dc4135fab, type: 3}
-    m_FontSize: 18
+    m_FontSize: 15
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 1
@@ -1749,7 +1749,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uC8E0\uC8E0\uC74C\uC131\uBAA8\uC74C"
+  m_Text: 'JoJo''s
+
+    Sound board'
 --- !u!222 &220058174
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3093,7 +3095,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uB2E4\uC6B4\uB85C\uB4DC"
+  m_Text: Download
 --- !u!222 &499411209
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4959,7 +4961,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 1542b185d1e302e4ba4ac87dc4135fab, type: 3}
-    m_FontSize: 18
+    m_FontSize: 13
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 1
@@ -6562,6 +6564,8 @@ MonoBehaviour:
   "\uACB0\uC81C\uC131\uACF5\uB0B4\uC6A9\uD655\uC778": {fileID: 218136771}
   "\uD504\uB9AC\uBBF8\uC5C4\uAD6C\uB9E4\uC544\uC774\uCF58": {fileID: 138229613}
   "\uACF5\uC9C0\uC0AC\uD56D\uD31D\uC5C5\uCC3D": {fileID: 852006709}
+  "\uAD11\uACE0\uC2E4\uD328\uD14D\uC2A4\uD2B8": {fileID: 1121489995}
+  "\uAD11\uACE0\uC2E4\uD328\uD14D\uC2A4\uD2B8\uC608": {fileID: 2133070090}
   subject: "\uCCB4\uC778\uC18C\uB9E8 \uC74C\uC131\uB300\uC0AC\uBAA8\uC74C"
   body: https://play.google.com/store/apps/details?id=com.frang.jojosound&hl=ko&gl=US
 --- !u!1 &1121489993
@@ -9403,7 +9407,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -3, y: -4.103882}
+  m_AnchoredPosition: {x: 90, y: -4.103882}
   m_SizeDelta: {x: 158.1748, y: 168.4357}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1798021289
@@ -9845,7 +9849,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1877935918
 RectTransform:
   m_ObjectHideFlags: 0
@@ -9865,7 +9869,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -71.82042, y: -4.103882}
+  m_AnchoredPosition: {x: -79, y: -4.103882}
   m_SizeDelta: {x: 158.1748, y: 168.4357}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1877935919
