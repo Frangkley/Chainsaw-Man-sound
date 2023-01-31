@@ -39,7 +39,6 @@ public class Le번역의요정개인: MonoBehaviour
     public Sprite 아키이미지;
     public Sprite 마키마이미지;
     public Sprite 파워이미지;
-    public Sprite 히메노이미지;
     
     public void Awake()
     {
@@ -173,9 +172,6 @@ public class Le번역의요정개인: MonoBehaviour
                             break;
                         case "마키마":
                             일회용부모.transform.GetChild(1).gameObject.GetComponent<Image>().sprite = 마키마이미지;
-                            break;
-                        case "히메노":
-                            일회용부모.transform.GetChild(1).gameObject.GetComponent<Image>().sprite = 히메노이미지;
                             break;
                         default:
                             break;

@@ -15251,7 +15251,6 @@ MonoBehaviour:
   "\uC544\uD0A4\uC774\uBBF8\uC9C0": {fileID: 21300000, guid: 9d8756daad8753b4392f44e0acfe5cf8, type: 3}
   "\uB9C8\uD0A4\uB9C8\uC774\uBBF8\uC9C0": {fileID: 21300000, guid: 2513adfab4368cb4fa32f3de6ed49fe3, type: 3}
   "\uD30C\uC6CC\uC774\uBBF8\uC9C0": {fileID: 21300000, guid: 6b6f867169d9e9544be220b9f977bc91, type: 3}
-  "\uD788\uBA54\uB178\uC774\uBBF8\uC9C0": {fileID: 21300000, guid: 10f0a6cf6701ca242b6b76c7a4031dfe, type: 3}
 --- !u!1 &1086127451
 GameObject:
   m_ObjectHideFlags: 0

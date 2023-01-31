@@ -11,7 +11,6 @@ public class MainEnKo : MonoBehaviour
     public Text 마키마버튼;
     public Text 아키버튼;
     public Text 파워버튼;
-    public Text 히메노버튼;
     public Text 제목;
     public Text 즐겨찾기;
     public GameObject 왼쪽V표시;
@@ -89,11 +88,10 @@ public class MainEnKo : MonoBehaviour
                 아키버튼.text = "Aki";
                 마키마버튼.text = "Makima";
                 파워버튼.text = "Power";
-                히메노버튼.text = "Himeno";
                 제목.text = "Chainsaw\nMan";
                 제목.fontSize = 15;
                 공지사항제목.text = "Notice";
-                공지사항내용.text = "These are the lines\nfrom the contents up\nto episode 6.\n\nWe will update\nwhen the number of\ndownloads increases!";
+                공지사항내용.text = "These are the lines\nfrom the contents up\nto episode 3.\n\nWe will update\nwhen the number of\ndownloads increases!";
                 즐겨찾기.text = "Favorites";
                 subject = "Chainsaw Man Characters sound";
              
@@ -168,7 +166,6 @@ public class MainEnKo : MonoBehaviour
                 아키버튼.text = "아 키";
                 마키마버튼.text = "마키마";
                 파워버튼.text = "파워";
-                히메노버튼.text = "히메노";
                 제목.text = "체인소 맨";
                 제목.fontSize = 22;
                 공지사항제목.text = "공 지 사 항";

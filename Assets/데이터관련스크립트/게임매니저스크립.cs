@@ -88,7 +88,7 @@ public class 게임매니저스크립 : MonoBehaviour {
         switch (앱종류)
         {
             case 앱확인용종류.체인소맨:
-                SceneManager.LoadScene("히메노");
+                SceneManager.LoadScene("파워");
                 break;
             case 앱확인용종류.봇치:
                 SceneManager.LoadScene("세이카");

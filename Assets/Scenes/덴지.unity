@@ -2975,14 +2975,13 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1742291824}
-        m_TargetAssemblyTypeName: "\uC18C\uB9AC\uC7AC\uC0DD\uC2A4\uD06C\uB9BD\uD2B8,
-          Assembly-CSharp"
-        m_MethodName: "\uC18C\uB9AC\uC7AC\uC0DD"
-        m_Mode: 3
+        m_TargetAssemblyTypeName: 
+        m_MethodName: Count0
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 30
+          m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -5527,7 +5526,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uC0C1 \uC918"
+  m_Text: "\uAC78\uB824\uB4E4\uC5C8\uAD70"
 --- !u!222 &357087735
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5548,8 +5547,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 751a4a1f7526e7f4f8b5d659cf9eb627, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Ko: "\uC0C1 \uC918"
-  En: I want a reward!
+  Ko: 
+  En: 
   "\uAE00\uC528\uD06C\uAE30": 15
   "\uBCF8\uC778\uD14D\uC2A4\uD2B8": {fileID: 357087734}
 --- !u!1 &361826865
@@ -6461,7 +6460,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &406897577
 RectTransform:
   m_ObjectHideFlags: 0
@@ -6480,9 +6479,9 @@ RectTransform:
   m_Father: {fileID: 813172325}
   m_RootOrder: 25
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 234, y: -2731.5}
   m_SizeDelta: {x: 450, y: 65}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &406897578
@@ -6530,14 +6529,13 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1742291824}
-        m_TargetAssemblyTypeName: "\uC18C\uB9AC\uC7AC\uC0DD\uC2A4\uD06C\uB9BD\uD2B8,
-          Assembly-CSharp"
-        m_MethodName: "\uC18C\uB9AC\uC7AC\uC0DD"
-        m_Mode: 3
+        m_TargetAssemblyTypeName: 
+        m_MethodName: Count0
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 25
+          m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -7296,7 +7294,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &480198705
 RectTransform:
   m_ObjectHideFlags: 0
@@ -7315,9 +7313,9 @@ RectTransform:
   m_Father: {fileID: 813172325}
   m_RootOrder: 26
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 234, y: -2830.5}
   m_SizeDelta: {x: 450, y: 65}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &480198706
@@ -7365,14 +7363,13 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1742291824}
-        m_TargetAssemblyTypeName: "\uC18C\uB9AC\uC7AC\uC0DD\uC2A4\uD06C\uB9BD\uD2B8,
-          Assembly-CSharp"
-        m_MethodName: "\uC18C\uB9AC\uC7AC\uC0DD"
-        m_Mode: 3
+        m_TargetAssemblyTypeName: 
+        m_MethodName: Count0
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 26
+          m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -8849,14 +8846,13 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1742291824}
-        m_TargetAssemblyTypeName: "\uC18C\uB9AC\uC7AC\uC0DD\uC2A4\uD06C\uB9BD\uD2B8,
-          Assembly-CSharp"
-        m_MethodName: "\uC18C\uB9AC\uC7AC\uC0DD"
-        m_Mode: 3
+        m_TargetAssemblyTypeName: 
+        m_MethodName: Count0
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 33
+          m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -8984,7 +8980,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uADF8\uAC83\uB3C4 \uC0DD\uAC01\uC740 \uD574\uBCFC\uAC8C"
+  m_Text: "\uAC78\uB824\uB4E4\uC5C8\uAD70"
 --- !u!222 &563852105
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -9005,8 +9001,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 751a4a1f7526e7f4f8b5d659cf9eb627, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Ko: "\uADF8\uAC83\uB3C4 \uC0DD\uAC01\uC740 \uD574\uBCFC\uAC8C"
-  En: I'll think about it
+  Ko: 
+  En: 
   "\uAE00\uC528\uD06C\uAE30": 15
   "\uBCF8\uC778\uD14D\uC2A4\uD2B8": {fileID: 563852104}
 --- !u!1 &565435681
@@ -9543,7 +9539,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0176630f868c45949b03273fadbd5e5e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  "\uBC30\uB108\uAD11\uACE0ID": ca-app-pub-8583528480029184/6318899712
 --- !u!114 &604256574
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10353,14 +10348,13 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1742291824}
-        m_TargetAssemblyTypeName: "\uC18C\uB9AC\uC7AC\uC0DD\uC2A4\uD06C\uB9BD\uD2B8,
-          Assembly-CSharp"
-        m_MethodName: "\uC18C\uB9AC\uC7AC\uC0DD"
-        m_Mode: 3
+        m_TargetAssemblyTypeName: 
+        m_MethodName: Count0
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 32
+          m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -12457,7 +12451,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -1290.9696}
+  m_AnchoredPosition: {x: 0, y: -1043.4697}
   m_SizeDelta: {x: 480, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &813172326
@@ -14884,7 +14878,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uD5E4~ \uADF8\uB807\uAD6C\uB9CC"
+  m_Text: "\uAC78\uB824\uB4E4\uC5C8\uAD70"
 --- !u!222 &1016436781
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -14905,8 +14899,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 751a4a1f7526e7f4f8b5d659cf9eb627, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Ko: "\uD5E4~ \uADF8\uB807\uAD6C\uB9CC"
-  En: Huh,guess not
+  Ko: 
+  En: 
   "\uAE00\uC528\uD06C\uAE30": 15
   "\uBCF8\uC778\uD14D\uC2A4\uD2B8": {fileID: 1016436780}
 --- !u!1 &1061956792
@@ -16083,7 +16077,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1156136329
 RectTransform:
   m_ObjectHideFlags: 0
@@ -16102,9 +16096,9 @@ RectTransform:
   m_Father: {fileID: 813172325}
   m_RootOrder: 27
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 234, y: -2929.5}
   m_SizeDelta: {x: 450, y: 65}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1156136330
@@ -16152,14 +16146,13 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1742291824}
-        m_TargetAssemblyTypeName: "\uC18C\uB9AC\uC7AC\uC0DD\uC2A4\uD06C\uB9BD\uD2B8,
-          Assembly-CSharp"
-        m_MethodName: "\uC18C\uB9AC\uC7AC\uC0DD"
-        m_Mode: 3
+        m_TargetAssemblyTypeName: 
+        m_MethodName: Count0
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 27
+          m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -17107,7 +17100,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1206122886
 RectTransform:
   m_ObjectHideFlags: 0
@@ -17126,9 +17119,9 @@ RectTransform:
   m_Father: {fileID: 813172325}
   m_RootOrder: 24
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 234, y: -2632.5}
   m_SizeDelta: {x: 450, y: 65}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1206122887
@@ -17176,14 +17169,13 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1742291824}
-        m_TargetAssemblyTypeName: "\uC18C\uB9AC\uC7AC\uC0DD\uC2A4\uD06C\uB9BD\uD2B8,
-          Assembly-CSharp"
-        m_MethodName: "\uC18C\uB9AC\uC7AC\uC0DD"
-        m_Mode: 3
+        m_TargetAssemblyTypeName: 
+        m_MethodName: Count0
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 24
+          m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -17559,14 +17551,13 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1742291824}
-        m_TargetAssemblyTypeName: "\uC18C\uB9AC\uC7AC\uC0DD\uC2A4\uD06C\uB9BD\uD2B8,
-          Assembly-CSharp"
-        m_MethodName: "\uC18C\uB9AC\uC7AC\uC0DD"
-        m_Mode: 3
+        m_TargetAssemblyTypeName: 
+        m_MethodName: Count0
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 34
+          m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -18040,14 +18031,13 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1742291824}
-        m_TargetAssemblyTypeName: "\uC18C\uB9AC\uC7AC\uC0DD\uC2A4\uD06C\uB9BD\uD2B8,
-          Assembly-CSharp"
-        m_MethodName: "\uC18C\uB9AC\uC7AC\uC0DD"
-        m_Mode: 3
+        m_TargetAssemblyTypeName: 
+        m_MethodName: Count0
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 31
+          m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -19099,7 +19089,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uC548\uC2EC\uD574\uC918"
+  m_Text: "\uAC78\uB824\uB4E4\uC5C8\uAD70"
 --- !u!222 &1412278778
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -19120,8 +19110,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 751a4a1f7526e7f4f8b5d659cf9eb627, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Ko: "\uC548\uC2EC\uD574\uC918"
-  En: You can relax
+  Ko: 
+  En: 
   "\uAE00\uC528\uD06C\uAE30": 15
   "\uBCF8\uC778\uD14D\uC2A4\uD2B8": {fileID: 1412278777}
 --- !u!1 &1412732236
@@ -21250,14 +21240,13 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1742291824}
-        m_TargetAssemblyTypeName: "\uC18C\uB9AC\uC7AC\uC0DD\uC2A4\uD06C\uB9BD\uD2B8,
-          Assembly-CSharp"
-        m_MethodName: "\uC18C\uB9AC\uC7AC\uC0DD"
-        m_Mode: 3
+        m_TargetAssemblyTypeName: 
+        m_MethodName: Count0
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 29
+          m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -21643,7 +21632,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uD3C9\uC18C \uB300\uB85C\uAD70\uC694"
+  m_Text: "\uAC78\uB824\uB4E4\uC5C8\uAD70"
 --- !u!222 &1681767542
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -21664,8 +21653,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 751a4a1f7526e7f4f8b5d659cf9eb627, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Ko: "\uD3C9\uC18C \uB300\uB85C\uAD70\uC694"
-  En: She's always like that
+  Ko: 
+  En: 
   "\uAE00\uC528\uD06C\uAE30": 15
   "\uBCF8\uC778\uD14D\uC2A4\uD2B8": {fileID: 1681767541}
 --- !u!1 &1685886166
@@ -23079,41 +23068,31 @@ MonoBehaviour:
   - {fileID: 8300000, guid: 096b21df4fca8cd48aa2977fbe318d1d, type: 3}
   - {fileID: 8300000, guid: 4ec90d750082c0a40bb876d1284e6666, type: 3}
   - {fileID: 8300000, guid: 4556557beb38bd44d8009c1e4cfa9665, type: 3}
-  - {fileID: 8300000, guid: 73628db1c543ae647987ab4e29749dbe, type: 3}
-  - {fileID: 8300000, guid: 25444b2f9e8359e45a83fc3af59b0b99, type: 3}
-  - {fileID: 8300000, guid: 5ff2af5d0d4b6e9479abd15e1620033b, type: 3}
-  - {fileID: 8300000, guid: 23e27f94da58dd643b06451477f33f55, type: 3}
-  - {fileID: 8300000, guid: 21b2c1addd41b9949913d79aa02173cc, type: 3}
   "\uD074\uB9BD\uACF5\uC720\uC6A9\uB4E4":
   - {fileID: 4900000, guid: 1a562b4e86bb7144ea3f99cb4a906c6b, type: 3}
-  - {fileID: 4900000, guid: 7245411668473724e988e9d429ab2a58, type: 3}
-  - {fileID: 4900000, guid: dca4774f06d7361458e7f6c4bfba999b, type: 3}
-  - {fileID: 4900000, guid: 6357ef92a2430564499dd86ad35fc7c4, type: 3}
-  - {fileID: 4900000, guid: 2533e9341d631bf4eaf881163bc4a736, type: 3}
-  - {fileID: 4900000, guid: 808aba6349e3f584283b5947d63d3b16, type: 3}
-  - {fileID: 4900000, guid: f221511839d37024aaa93fe77b93eab4, type: 3}
-  - {fileID: 4900000, guid: 04017d1657f8d9c4b86be587a9f3833e, type: 3}
-  - {fileID: 4900000, guid: a21801478a69cda4dae7a9de5be102f9, type: 3}
-  - {fileID: 4900000, guid: 708cc07d71101844dafc0882246ece51, type: 3}
-  - {fileID: 4900000, guid: fb06c57e15bd5fa4cb88b6bc8cbc8fa5, type: 3}
-  - {fileID: 4900000, guid: ce2d8a19f7128b34a8436100e55a4e0a, type: 3}
-  - {fileID: 4900000, guid: 93ea6e4e9ac41e84d92fad765121b9d6, type: 3}
-  - {fileID: 4900000, guid: 7ce3b4269c1d9d3408e8f831c1ed4a12, type: 3}
-  - {fileID: 4900000, guid: 09a76319399400049895cd29d577abc5, type: 3}
-  - {fileID: 4900000, guid: 2efd0f462d18c544f95ebfda8d2b3d88, type: 3}
-  - {fileID: 4900000, guid: 4d8b61d6fd972fd4989690605becc6df, type: 3}
-  - {fileID: 4900000, guid: 9ea059b501bc84e4db6db3a41bc17ece, type: 3}
-  - {fileID: 4900000, guid: 3f24f7bcf67b30a42b6b7b74c638077c, type: 3}
-  - {fileID: 4900000, guid: 83719b3dd8e2e2544b47e039d074f15f, type: 3}
-  - {fileID: 4900000, guid: 3404db35ea13b314188a0dfbd0f31c82, type: 3}
-  - {fileID: 4900000, guid: 115a1ed725542934185afa5b48f8b262, type: 3}
-  - {fileID: 4900000, guid: f323c4ee0ba222c49ba6a22205ee7669, type: 3}
-  - {fileID: 4900000, guid: 4734b204471929643a77ff7b9250aa4e, type: 3}
-  - {fileID: 4900000, guid: 6a2662dff9e19fd4292174bd4354559e, type: 3}
-  - {fileID: 4900000, guid: 5d748c9b36e677e408b1c710b2cd9b7d, type: 3}
-  - {fileID: 4900000, guid: 2f141a656f8c8494da1a2f83ace1acc0, type: 3}
-  - {fileID: 4900000, guid: ede112444ea9c0a44ab7d169e2ec287b, type: 3}
-  - {fileID: 4900000, guid: bff6351beb8bfbb46b995ca96611168f, type: 3}
+  - {fileID: 4900000, guid: e8cb383f699ae43489520037436366df, type: 3}
+  - {fileID: 4900000, guid: a232b20589872de4290f21b537d576fd, type: 3}
+  - {fileID: 4900000, guid: cc1ad0dbc43adaa499f2a5386ca20649, type: 3}
+  - {fileID: 4900000, guid: 06d8b7edb0465f64a94023f70a7bc452, type: 3}
+  - {fileID: 4900000, guid: 14844d5a83e0bcf4594ba0b5146f9f04, type: 3}
+  - {fileID: 4900000, guid: 0668951a7623677418dc610714b1af96, type: 3}
+  - {fileID: 4900000, guid: 91ec7a00e42904645bca67c4613a2d18, type: 3}
+  - {fileID: 4900000, guid: 487e7cc064aa5bf41adc4a03137c8d59, type: 3}
+  - {fileID: 4900000, guid: ff0d6e3baa0a59445ad0ba21b168b3f2, type: 3}
+  - {fileID: 4900000, guid: 5b1e6e70163b54f4cb5bf40ebf25b89b, type: 3}
+  - {fileID: 4900000, guid: 5c9481e74ab9d594b8bedfe9cab40534, type: 3}
+  - {fileID: 4900000, guid: 8d10cdf276d25e347bc9c8e6df648b3e, type: 3}
+  - {fileID: 4900000, guid: 0b5b695c206277b47a548c28707f1e04, type: 3}
+  - {fileID: 4900000, guid: bc59f9da475b6694186852a76b8bb225, type: 3}
+  - {fileID: 4900000, guid: cbd3bf8624f64c342855b311b82de818, type: 3}
+  - {fileID: 4900000, guid: 3c48a1953e68d5d40ba4ad5d1d3f7960, type: 3}
+  - {fileID: 4900000, guid: 185532057d61d0a4ab0fb5cf738bb4a1, type: 3}
+  - {fileID: 4900000, guid: 38dd9a6827b9a4a4cbf7f716d320ef45, type: 3}
+  - {fileID: 4900000, guid: b298f5b7a4a0a474ca18cc9577233444, type: 3}
+  - {fileID: 4900000, guid: 2c08dc5cefab454449ff317b99d35b35, type: 3}
+  - {fileID: 4900000, guid: c8e1ffbcf92b9de429c166c01877437b, type: 3}
+  - {fileID: 4900000, guid: 7bfc99a8300d0cb488404a282fa1c2fa, type: 3}
+  - {fileID: 4900000, guid: a9cea6254249165428e93c7dd885cfa9, type: 3}
 --- !u!1 &1743424579
 GameObject:
   m_ObjectHideFlags: 0
@@ -23202,14 +23181,13 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1742291824}
-        m_TargetAssemblyTypeName: "\uC18C\uB9AC\uC7AC\uC0DD\uC2A4\uD06C\uB9BD\uD2B8,
-          Assembly-CSharp"
-        m_MethodName: "\uC18C\uB9AC\uC7AC\uC0DD"
-        m_Mode: 3
+        m_TargetAssemblyTypeName: 
+        m_MethodName: Count0
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 35
+          m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -24698,7 +24676,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1861538252
 RectTransform:
   m_ObjectHideFlags: 0
@@ -24717,9 +24695,9 @@ RectTransform:
   m_Father: {fileID: 813172325}
   m_RootOrder: 28
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 234, y: -3028.5}
   m_SizeDelta: {x: 450, y: 65}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1861538253
@@ -24767,14 +24745,13 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1742291824}
-        m_TargetAssemblyTypeName: "\uC18C\uB9AC\uC7AC\uC0DD\uC2A4\uD06C\uB9BD\uD2B8,
-          Assembly-CSharp"
-        m_MethodName: "\uC18C\uB9AC\uC7AC\uC0DD"
-        m_Mode: 3
+        m_TargetAssemblyTypeName: 
+        m_MethodName: Count0
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 28
+          m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
