@@ -124,6 +124,8 @@ public class DataBase : MonoBehaviour
         {
             공지사항팝업띄울지여부 = true;
             PlayerPrefs.SetFloat("Ver", 현재버전);
+            int iiii = PlayerPrefs.GetInt("즐찾횟수");
+            PlayerPrefs.SetInt("즐찾횟수", iiii+4);
         }
         //File.Delete(즐겨찾기저장공간 + newSlot.ToString());
     }
