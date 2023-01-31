@@ -6538,6 +6538,7 @@ MonoBehaviour:
   "\uB9C8\uD0A4\uB9C8\uBC84\uD2BC": {fileID: 2131848114}
   "\uC544\uD0A4\uBC84\uD2BC": {fileID: 1990705862}
   "\uD30C\uC6CC\uBC84\uD2BC": {fileID: 69728889}
+  "\uD788\uBA54\uB178\uBC84\uD2BC": {fileID: 1249826192}
   "\uC81C\uBAA9": {fileID: 1928625565}
   "\uC990\uACA8\uCC3E\uAE30": {fileID: 978584200}
   "\uC67C\uCABDV\uD45C\uC2DC": {fileID: 2091990227}
@@ -6546,9 +6547,14 @@ MonoBehaviour:
   "\uB2E4\uB978\uC571\uBCF4\uAE30\uC81C\uAC70": {fileID: 1603336183}
   "\uACF5\uC9C0\uC0AC\uD56D\uC81C\uBAA9": {fileID: 343096401}
   "\uACF5\uC9C0\uC0AC\uD56D\uB0B4\uC6A9": {fileID: 945027736}
-  "\uACF5\uC9C0\uC0AC\uD56D\uB0B4\uC6A9\uBD99\uC5EC\uB123\uAE30\uD55C\uAD6D\uC5B4": "\uCD9C\uC2DC
-    3\uC77C \uB9CC\uC5D0 160\uBA85\n\uB2E4\uC6B4\uB85C\uB4DC \uAC10\uC0AC\uD569\uB2C8\uB2E4\r\n\r\n\r\n\uBA70\uCE60
-    \uC774\uB0B4\uB85C \uCD94\uAC00 \uC5C5\uB370\uC774\uD2B8\r\n\uD558\uACA0\uC2B5\uB2C8\uB2E4"
+  "\uACF5\uC9C0\uC0AC\uD56D\uB0B4\uC6A9\uBD99\uC5EC\uB123\uAE30\uD55C\uAD6D\uC5B4": "\n-----------------\n\uD788\uBA54\uB178\uAC00
+    \uCD94\uAC00\uB418\uC5C8\uC2B5\uB2C8\uB2E4!\n\uC544\uD0A4 ,\uD30C\uC6CC\uC758
+    \uB300\uC0AC\uAC00\n\uC808\uBC18\uC815\uB3C4 \uB298\uC5C8\uC2B5\uB2C8\uB2E4!\n---------------\n\uC571
+    \uC774\uB984\uC774 \uBCC0\uACBD\uB418\uC5B4\n\uAE30\uC874 \uC720\uC800\uB4E4\uC774\n\uB3D9\uC601\uC0C1
+    \uAD11\uACE0\uAE30\uB2A5\uC744 1\uD68C \uC774\uC0C1\n\uC0AC\uC6A9\uD558\uC9C0
+    \uBABB\uD558\uB294 \uBB38\uC81C\uAC00\n\uC788\uC2B5\uB2C8\uB2E4. \uBCF8\uC778\uC774
+    \uD574\uB2F9 \uB41C\uB2E4\uBA74\n\uC571 \uC0AD\uC81C\uD6C4 \uC7AC\uC124\uCE58\uB97C
+    \n\uAD8C\uC7A5\uB4DC\uB9BD\uB2C8\uB2E4. \uC8C4\uC1A1\uD569\uB2C8\uB2E4."
   "\uACF5\uC9C0\uC0AC\uD56D\uB0B4\uC6A9\uBD99\uC5EC\uB123\uAE30\uC601\uC5B4": 
   "\uAD11\uACE0\uD31D\uC5C5\uD14D\uC2A4\uD2B8": {fileID: 1947887478}
   "\uAD11\uACE0\uD31D\uC5C5\uD14D\uC2A4\uD2B8\uC608": {fileID: 728273618}
@@ -6875,12 +6881,12 @@ GameObject:
   - component: {fileID: 1201475310}
   - component: {fileID: 1201475309}
   m_Layer: 5
-  m_Name: "\uCE74\uCFC4\uC778\uBC84\uD2BC"
+  m_Name: "\uD788\uBA54\uB178\uBC84\uD2BC"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1201475308
 RectTransform:
   m_ObjectHideFlags: 0
@@ -6947,8 +6953,9 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 604256572}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: "\uCE74\uCFC4\uC778\uBC29"
+        m_TargetAssemblyTypeName: "\uAC8C\uC784\uB9E4\uB2C8\uC800\uC2A4\uD06C\uB9BD,
+          Assembly-CSharp"
+        m_MethodName: "\uC624\uBC88\uBC29"
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -7067,7 +7074,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\uC138\uC774\uCE74"
+  m_Text: "\uD788\uBA54\uB178"
 --- !u!222 &1249826193
 CanvasRenderer:
   m_ObjectHideFlags: 0

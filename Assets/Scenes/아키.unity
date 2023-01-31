@@ -475,7 +475,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &40976935
 RectTransform:
   m_ObjectHideFlags: 0
@@ -494,10 +494,10 @@ RectTransform:
   m_Father: {fileID: 813172325}
   m_RootOrder: 21
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 234, y: -2320.5}
-  m_SizeDelta: {x: 450, y: 65}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 450, y: 90}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &40976936
 MonoBehaviour:
@@ -625,7 +625,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &44174530
 RectTransform:
   m_ObjectHideFlags: 0
@@ -644,9 +644,9 @@ RectTransform:
   m_Father: {fileID: 813172325}
   m_RootOrder: 20
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 234, y: -2221.5}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 450, y: 65}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &44174531
@@ -4460,7 +4460,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uC7A0\uAE50\uB9CC"
+  m_Text: "\uC774\uCABD\uC740 \uC800\uD76C 4\uACFC\uAC00 \n\uC81C\uAC70\uD588\uC2B5\uB2C8\uB2E4"
 --- !u!222 &265144831
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4481,8 +4481,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 751a4a1f7526e7f4f8b5d659cf9eb627, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Ko: 
-  En: 
+  Ko: "\uC774\uCABD\uC740 \uC800\uD76C 4\uACFC\uAC00 \n\uC81C\uAC70\uD588\uC2B5\uB2C8\uB2E4"
+  En: "Which Division \n4 exterminated"
   "\uAE00\uC528\uD06C\uAE30": 15
   "\uBCF8\uC778\uD14D\uC2A4\uD2B8": {fileID: 265144830}
 --- !u!1 &273821265
@@ -5728,7 +5728,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 15
+    m_FontSize: 13
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 1
@@ -5739,7 +5739,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uC774 \uBA38\uB9AC\uCE74\uB77D"
+  m_Text: "\uB108\uD76C\uB4E4\uC5D0\uAC8C \uC778\uAD8C\uC740 \uC5C6\uB2E4"
 --- !u!222 &362461893
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5760,9 +5760,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 751a4a1f7526e7f4f8b5d659cf9eb627, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Ko: 
-  En: 
-  "\uAE00\uC528\uD06C\uAE30": 15
+  Ko: "\uB108\uD76C\uB4E4\uC5D0\uAC8C \uC778\uAD8C\uC740 \uC5C6\uB2E4"
+  En: You two don't get rights
+  "\uAE00\uC528\uD06C\uAE30": 13
   "\uBCF8\uC778\uD14D\uC2A4\uD2B8": {fileID: 362461892}
 --- !u!1 &370007419
 GameObject:
@@ -6038,7 +6038,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &397536731
 RectTransform:
   m_ObjectHideFlags: 0
@@ -6057,10 +6057,10 @@ RectTransform:
   m_Father: {fileID: 813172325}
   m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 234, y: -1825.5}
-  m_SizeDelta: {x: 450, y: 65}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 450, y: 90}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &397536732
 MonoBehaviour:
@@ -6720,7 +6720,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &426232157
 RectTransform:
   m_ObjectHideFlags: 0
@@ -6739,10 +6739,10 @@ RectTransform:
   m_Father: {fileID: 813172325}
   m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 234, y: -1528.5}
-  m_SizeDelta: {x: 450, y: 65}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 450, y: 90}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &426232158
 MonoBehaviour:
@@ -9854,7 +9854,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &665758275
 RectTransform:
   m_ObjectHideFlags: 0
@@ -9873,10 +9873,10 @@ RectTransform:
   m_Father: {fileID: 813172325}
   m_RootOrder: 18
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 234, y: -2023.5}
-  m_SizeDelta: {x: 450, y: 65}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 450, y: 110}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &665758276
 MonoBehaviour:
@@ -11838,7 +11838,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 15
+    m_FontSize: 13
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 1
@@ -11849,7 +11849,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "(\uC6C3\uC74C2)"
+  m_Text: "\uB108\uB294 \uBC14\uBCF4\uC778\uB370\uB2E4 \n\uAF2C\uB9F9\uC774\uACE0
+    \uB3C4\uB355\uC774 \uC5C6\uB2E4"
 --- !u!222 &748214887
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -11870,9 +11871,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 751a4a1f7526e7f4f8b5d659cf9eb627, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Ko: 
-  En: 
-  "\uAE00\uC528\uD06C\uAE30": 15
+  Ko: "\uB108\uB294 \uBC14\uBCF4\uC778\uB370\uB2E4 \n\uAF2C\uB9F9\uC774\uACE0 \uB3C4\uB355\uC774
+    \uC5C6\uB2E4"
+  En: "You're a dumbass and a \nbrat with no clue about \nright and wrong"
+  "\uAE00\uC528\uD06C\uAE30": 13
   "\uBCF8\uC778\uD14D\uC2A4\uD2B8": {fileID: 748214886}
 --- !u!1 &749609346
 GameObject:
@@ -12637,7 +12639,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -456.46912}
+  m_AnchoredPosition: {x: 0, y: -1009.4694}
   m_SizeDelta: {x: 480, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &813172326
@@ -16368,6 +16370,7 @@ MonoBehaviour:
   "\uC544\uD0A4\uC774\uBBF8\uC9C0": {fileID: 0}
   "\uB9C8\uD0A4\uB9C8\uC774\uBBF8\uC9C0": {fileID: 0}
   "\uD30C\uC6CC\uC774\uBBF8\uC9C0": {fileID: 0}
+  "\uD788\uBA54\uB178\uC774\uBBF8\uC9C0": {fileID: 0}
 --- !u!1 &1086212493
 GameObject:
   m_ObjectHideFlags: 0
@@ -16468,7 +16471,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1095746701
 RectTransform:
   m_ObjectHideFlags: 0
@@ -16487,10 +16490,10 @@ RectTransform:
   m_Father: {fileID: 813172325}
   m_RootOrder: 19
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 234, y: -2122.5}
-  m_SizeDelta: {x: 450, y: 65}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 450, y: 90}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1095746702
 MonoBehaviour:
@@ -16660,7 +16663,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 15
+    m_FontSize: 14
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 1
@@ -16671,7 +16674,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uC798 \uBD10"
+  m_Text: "\uC54C\uC544\uB4E4\uC5C8\uC73C\uBA74 \uB300\uB2F5"
 --- !u!222 &1095841360
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -16692,9 +16695,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 751a4a1f7526e7f4f8b5d659cf9eb627, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Ko: 
-  En: 
-  "\uAE00\uC528\uD06C\uAE30": 15
+  Ko: "\uC54C\uC544\uB4E4\uC5C8\uC73C\uBA74 \uB300\uB2F5"
+  En: "How about it?\nIf you follow, \nI want an answer"
+  "\uAE00\uC528\uD06C\uAE30": 14
   "\uBCF8\uC778\uD14D\uC2A4\uD2B8": {fileID: 1095841359}
 --- !u!1 &1095852774
 GameObject:
@@ -17624,7 +17627,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 15
+    m_FontSize: 14
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 1
@@ -17635,7 +17638,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "(\uC6C3\uC74C1)"
+  m_Text: "\uADF8\uAC74 \uC7A5\uB09C\uB808\uBCA8\uC774 \uC544\uB2C8\uC57C!\n\uC8FD\uC5EC\uBC84\uB9B0\uB2E4?!"
 --- !u!222 &1167986769
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -17656,9 +17659,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 751a4a1f7526e7f4f8b5d659cf9eb627, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Ko: 
-  En: 
-  "\uAE00\uC528\uD06C\uAE30": 15
+  Ko: "\uADF8\uAC74 \uC7A5\uB09C\uB808\uBCA8\uC774 \uC544\uB2C8\uC57C!\n\uC8FD\uC5EC\uBC84\uB9B0\uB2E4?!"
+  En: "You call that a prank! \nI could kill you!?"
+  "\uAE00\uC528\uD06C\uAE30": 14
   "\uBCF8\uC778\uD14D\uC2A4\uD2B8": {fileID: 1167986768}
 --- !u!1 &1169011077
 GameObject:
@@ -20199,7 +20202,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 15
+    m_FontSize: 13
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 1
@@ -20210,7 +20213,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uC774 \uC790\uC2DD"
+  m_Text: "\uB140\uC11D\uB4E4\uC740 \uBBFF\uC744 \uC218 \n\uC5C6\uC744\uB9CC\uD07C
+    \uBC14\uBCF4\uB2C8\uAE4C\uC694"
 --- !u!222 &1470314808
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -20231,9 +20235,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 751a4a1f7526e7f4f8b5d659cf9eb627, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Ko: 
-  En: 
-  "\uAE00\uC528\uD06C\uAE30": 15
+  Ko: "\uB140\uC11D\uB4E4\uC740 \uBBFF\uC744 \uC218 \n\uC5C6\uC744\uB9CC\uD07C \uBC14\uBCF4\uB2C8\uAE4C\uC694"
+  En: "I'd chalk that up to them \nbeing unbelievably stupid"
+  "\uAE00\uC528\uD06C\uAE30": 13
   "\uBCF8\uC778\uD14D\uC2A4\uD2B8": {fileID: 1470314807}
 --- !u!1 &1470434523
 GameObject:
@@ -20307,7 +20311,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uC820\uC7A5~"
+  m_Text: "\uCE5C\uBAA9\uC9C8\uC774\uB098 \n\uD560 \uC0DD\uAC01\uC740 \uC5C6\uB2E4\uACE0\uC694"
 --- !u!222 &1470434526
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -20328,8 +20332,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 751a4a1f7526e7f4f8b5d659cf9eb627, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Ko: 
-  En: 
+  Ko: "\uCE5C\uBAA9\uC9C8\uC774\uB098 \n\uD560 \uC0DD\uAC01\uC740 \uC5C6\uB2E4\uACE0\uC694"
+  En: "We're not \nmaking friends"
   "\uAE00\uC528\uD06C\uAE30": 15
   "\uBCF8\uC778\uD14D\uC2A4\uD2B8": {fileID: 1470434525}
 --- !u!1 &1471524124
@@ -21252,7 +21256,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1522325360
 RectTransform:
   m_ObjectHideFlags: 0
@@ -21271,10 +21275,10 @@ RectTransform:
   m_Father: {fileID: 813172325}
   m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 234, y: -1627.5}
-  m_SizeDelta: {x: 450, y: 65}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 450, y: 110}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1522325361
 MonoBehaviour:
@@ -23689,20 +23693,39 @@ MonoBehaviour:
   - {fileID: 8300000, guid: 51aff8b2722c8d141a7bd00ff64192d6, type: 3}
   - {fileID: 8300000, guid: af6e21f98376323439b0c0f9b76f42e4, type: 3}
   - {fileID: 8300000, guid: ea439d7c9fa0a084fa099f39f585f93b, type: 3}
+  - {fileID: 8300000, guid: eb55b9980f77b1f4e86d40058e023ef6, type: 3}
+  - {fileID: 8300000, guid: b378454dcf28a2243befe7d8bd7491a3, type: 3}
+  - {fileID: 8300000, guid: eba8c23a297804444b2fd393a6746f36, type: 3}
+  - {fileID: 8300000, guid: 6f619a38d70be2d43bbe41d6e07c544e, type: 3}
+  - {fileID: 8300000, guid: 1af95771c7d637f4cab8ad22bcd18055, type: 3}
+  - {fileID: 8300000, guid: 39202cc6624542749b30bdf9f17b919a, type: 3}
+  - {fileID: 8300000, guid: 606eaa47d179e2f45ba91fc8b28b219b, type: 3}
+  - {fileID: 8300000, guid: 5bd04f6c1f6a58d4597bc4f11ce2a1be, type: 3}
+  - {fileID: 8300000, guid: bce1df4bcca658b4e89cfa49ca82565d, type: 3}
   "\uD074\uB9BD\uACF5\uC720\uC6A9\uB4E4":
-  - {fileID: 4900000, guid: 9e2f8184128bbcd40af866804afdb557, type: 3}
-  - {fileID: 4900000, guid: 77b006499b45baa4599bc34a5bceb257, type: 3}
-  - {fileID: 4900000, guid: 689b6772d629d7f418fd93921e910210, type: 3}
-  - {fileID: 4900000, guid: 73deb3f24955f604e913cb840dc0672f, type: 3}
-  - {fileID: 4900000, guid: 13fb8260e953a324b8c7153aaecf1201, type: 3}
-  - {fileID: 4900000, guid: 91210da59bd02f042b89a63b5fcf9ca9, type: 3}
-  - {fileID: 4900000, guid: 3c2ca29aee94c34478c5c1161c4ca43f, type: 3}
-  - {fileID: 4900000, guid: d91546e221e883e40aaeb00d84578575, type: 3}
-  - {fileID: 4900000, guid: 192bcc45fa1ad2a48ab56bd8c2b8ac8d, type: 3}
-  - {fileID: 4900000, guid: 04aa51317480aaf428d07a7cff8affe0, type: 3}
-  - {fileID: 4900000, guid: d28de9179de06804999ffa2439d9f111, type: 3}
-  - {fileID: 4900000, guid: aedf49781f8ce304cb76f2c9f27546b1, type: 3}
-  - {fileID: 4900000, guid: 25dea3654b42d014a8e8e8111a71ba28, type: 3}
+  - {fileID: 4900000, guid: d20451ae4b0c2a34ab03a0403652a402, type: 3}
+  - {fileID: 4900000, guid: 89ea5aced9011c64f8e89af50215c567, type: 3}
+  - {fileID: 4900000, guid: 330336dfcd398234caa4d727dcf65fac, type: 3}
+  - {fileID: 4900000, guid: 366f424ac61ae724d9a214984dc487c8, type: 3}
+  - {fileID: 4900000, guid: 079d21e0a6b9c3544905bade396b3983, type: 3}
+  - {fileID: 4900000, guid: 134b7363654bb8b4dbaa0347352b35fb, type: 3}
+  - {fileID: 4900000, guid: c0f913a3cee7ff4499f1141e744b1cd5, type: 3}
+  - {fileID: 4900000, guid: 734abcc1f2aaa9e43bf2caa1698489e3, type: 3}
+  - {fileID: 4900000, guid: 7e5e0763686db604eb3d922ce796ccce, type: 3}
+  - {fileID: 4900000, guid: 5c541e7db9239d14f9addcd82a8517e8, type: 3}
+  - {fileID: 4900000, guid: bde4d537a6b36a54bb3ea3b2aae499d3, type: 3}
+  - {fileID: 4900000, guid: 0e3321360388c0840a54f3f0c227a4b6, type: 3}
+  - {fileID: 4900000, guid: c1061955950a0714086a672815e73ffb, type: 3}
+  - {fileID: 4900000, guid: 660144ff92225a24da161b24fab698a1, type: 3}
+  - {fileID: 4900000, guid: 8d0e3c4e4c9171c42832353c87170f67, type: 3}
+  - {fileID: 4900000, guid: 2858ab3e615f7e6449f3c7299136bd3e, type: 3}
+  - {fileID: 4900000, guid: 7ea48b659882844479758fc1dbd069fa, type: 3}
+  - {fileID: 4900000, guid: a166ca6e81373d64cb127832f9d89a35, type: 3}
+  - {fileID: 4900000, guid: 49c4ff7e991cfc14f9bdba833c46c2bd, type: 3}
+  - {fileID: 4900000, guid: 6ca87ee3637b4e54983fb7d05c311a4c, type: 3}
+  - {fileID: 4900000, guid: 78f226d201985e2478de86bde54e7854, type: 3}
+  - {fileID: 4900000, guid: 1ffe14391d115f34dbbdd025ec5c9045, type: 3}
+  "\uCF00\uB9AD\uD130\uBC88\uD638": 1
 --- !u!1 &1743424579
 GameObject:
   m_ObjectHideFlags: 0
@@ -26266,7 +26289,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uC800\uB140\uC11D"
+  m_Text: "\uC785 \uB2E4\uBB3C\uC5B4"
 --- !u!222 &1947932325
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -26287,8 +26310,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 751a4a1f7526e7f4f8b5d659cf9eb627, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Ko: 
-  En: 
+  Ko: "\uC785 \uB2E4\uBB3C\uC5B4"
+  En: Shut up
   "\uAE00\uC528\uD06C\uAE30": 15
   "\uBCF8\uC778\uD14D\uC2A4\uD2B8": {fileID: 1947932324}
 --- !u!1 &1948792179
@@ -28547,7 +28570,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &2090669877
 RectTransform:
   m_ObjectHideFlags: 0
@@ -28566,10 +28589,10 @@ RectTransform:
   m_Father: {fileID: 813172325}
   m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 234, y: -1924.5}
-  m_SizeDelta: {x: 450, y: 65}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 450, y: 90}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2090669878
 MonoBehaviour:
@@ -29138,7 +29161,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uC774\uB807\uAC8C \uC801\uD600\uC788\uC9C0"
+  m_Text: "\uC544\uBB34\uAC83\uB3C4 \uBCC0\uD558\uC9C0 \n\uC54A\uC558\uC2B5\uB2C8\uB2E4"
 --- !u!222 &2113469771
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -29159,8 +29182,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 751a4a1f7526e7f4f8b5d659cf9eb627, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Ko: 
-  En: 
+  Ko: "\uC544\uBB34\uAC83\uB3C4 \uBCC0\uD558\uC9C0 \n\uC54A\uC558\uC2B5\uB2C8\uB2E4"
+  En: I haven't changed at all
   "\uAE00\uC528\uD06C\uAE30": 15
   "\uBCF8\uC778\uD14D\uC2A4\uD2B8": {fileID: 2113469770}
 --- !u!1 &2123885997
@@ -29182,7 +29205,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &2123885998
 RectTransform:
   m_ObjectHideFlags: 0
@@ -29201,9 +29224,9 @@ RectTransform:
   m_Father: {fileID: 813172325}
   m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 234, y: -1726.5}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 450, y: 65}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2123885999

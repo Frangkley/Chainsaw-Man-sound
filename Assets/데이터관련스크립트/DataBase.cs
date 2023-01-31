@@ -31,6 +31,7 @@ public class Pre
 }
 public class DataBase : MonoBehaviour
 {
+    public int[] 소리개수버그감지;
     public string[] 삭제용이름종류들;
     public 소리재생스크립트 소리재생스크립;
     public int 소리개수 = 0;
