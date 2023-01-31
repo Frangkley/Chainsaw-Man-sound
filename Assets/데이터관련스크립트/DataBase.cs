@@ -76,6 +76,7 @@ public class DataBase : MonoBehaviour
     public 프리미엄모드 모드종류 = 프리미엄모드.일반;
     public bool 시작시한번만 = false;
     public bool 공지사항팝업띄울지여부 = false;
+    public float 현재버전;
     // Start is called before the first frame update
     private void Awake()
     {
@@ -117,6 +118,13 @@ public class DataBase : MonoBehaviour
             모드종류 = 프리미엄모드.프리미엄;
         }
         시작시한번만 = true;
+        float bar = PlayerPrefs.GetFloat("Ver");
+
+        if (bar < 현재버전)
+        {
+            공지사항팝업띄울지여부 = true;
+            PlayerPrefs.SetFloat("Ver", 현재버전);
+        }
         //File.Delete(즐겨찾기저장공간 + newSlot.ToString());
     }
     public void Start()
