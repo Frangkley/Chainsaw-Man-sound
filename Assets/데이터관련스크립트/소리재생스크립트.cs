@@ -13,14 +13,16 @@ public class 소리재생스크립트 : MonoBehaviour {
         슈퍼광고.Instance().소리재생스크립 = gameObject.GetComponent<소리재생스크립트>();
         DataBase.Instance().소리재생스크립 = gameObject.GetComponent<소리재생스크립트>();
         DataBase.Instance().소리개수 = 클립들.Length;
-        /*
-        if (케릭터번호 != 99)
+        if (DataBase.Instance().관리모드 == DataBase.관리자모드.관리자)
         {
-            if (DataBase.Instance().소리개수버그감지[케릭터번호] != 클립들.Length)
+            if (케릭터번호 != 99)
             {
-                Debug.Log("소리개수다름!" + "시작화면소리개수 : " + DataBase.Instance().소리개수버그감지[케릭터번호] + "방 번호 개수 : " + 클립들.Length);
+                if (DataBase.Instance().소리개수버그감지[케릭터번호] != 클립들.Length)
+                {
+                    Debug.Log("소리개수다름!" + "시작화면소리개수 : " + DataBase.Instance().소리개수버그감지[케릭터번호] + "방 번호 개수 : " + 클립들.Length);
+                }
             }
-        }*/
+        }
        
         
     }

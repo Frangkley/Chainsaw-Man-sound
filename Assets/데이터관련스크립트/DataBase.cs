@@ -74,6 +74,8 @@ public class DataBase : MonoBehaviour
     public string 세이브이름 = "케릭터";
     public enum 프리미엄모드 { 일반, 프리미엄 }
     public 프리미엄모드 모드종류 = 프리미엄모드.일반;
+    public enum 관리자모드 { 일반, 관리자 }
+    public 관리자모드 관리모드 = 관리자모드.일반;
     public bool 시작시한번만 = false;
     public bool 공지사항팝업띄울지여부 = false;
     public float 현재버전;
