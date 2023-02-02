@@ -12,19 +12,26 @@ public class 메인전용 : MonoBehaviour
 
     public void 다운링크리뷰전용()
     {
+        리뷰영어팝업창.SetActive(false);
+        리뷰한글팝업창.SetActive(false);
         int i = PlayerPrefs.GetInt("즐찾횟수");
         if (PlayerPrefs.GetInt("EnKo") != 0)
         {
             Application.OpenURL(영어링크);
-            리뷰영어팝업창.SetActive(false);
         }
         else
         {
             Application.OpenURL(한글링크);
-            리뷰한글팝업창.SetActive(false);
+    
         }
 
         PlayerPrefs.SetInt("즐찾횟수", i + 5);
+        int iii = PlayerPrefs.GetInt("즐찾횟수");
+        ///리미트;
+        if (iii >= 10)
+        {
+            iii = 9;
+        }
 
     }
     void Start()
@@ -59,7 +66,7 @@ public class 메인전용 : MonoBehaviour
                     }
                     else
                     {
-                        리뷰영어팝업창.SetActive(true);
+                        리뷰한글팝업창.SetActive(true);
                     }
                 }
             }
@@ -82,7 +89,7 @@ public class 메인전용 : MonoBehaviour
                     }
                     else
                     {
-                        리뷰영어팝업창.SetActive(true);
+                        리뷰한글팝업창.SetActive(true);
                     }
                 }
             }

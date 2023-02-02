@@ -129,6 +129,12 @@ public class DataBase : MonoBehaviour
             int iiii = PlayerPrefs.GetInt("ÁñÃ£È½¼ö");
             PlayerPrefs.SetInt("ÁñÃ£È½¼ö", iiii+4);
         }
+        int iiiii = PlayerPrefs.GetInt("ÁñÃ£È½¼ö");
+        ///¸®¹ÌÆ®;
+        if (iiiii >= 10)
+        {
+            PlayerPrefs.SetInt("ÁñÃ£È½¼ö", 9);
+        }
         //File.Delete(Áñ°ÜÃ£±âÀúÀå°ø°£ + newSlot.ToString());
     }
     public void Start()
