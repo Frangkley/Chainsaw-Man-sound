@@ -126,8 +126,6 @@ public class DataBase : MonoBehaviour
         {
             °øÁö»çÇ×ÆË¾÷¶ç¿ïÁö¿©ºÎ = true;
             PlayerPrefs.SetFloat("Ver", ÇöÀç¹öÀü);
-            int iiii = PlayerPrefs.GetInt("ÁñÃ£È½¼ö");
-            PlayerPrefs.SetInt("ÁñÃ£È½¼ö", iiii+4);
         }
         int iiiii = PlayerPrefs.GetInt("ÁñÃ£È½¼ö");
         ///¸®¹ÌÆ®;

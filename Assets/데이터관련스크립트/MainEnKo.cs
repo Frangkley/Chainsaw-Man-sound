@@ -92,8 +92,6 @@ public class MainEnKo : MonoBehaviour
                 히메노버튼.text = "Himeno";
                 제목.text = "Chainsaw\nMan";
                 제목.fontSize = 15;
-                공지사항제목.text = "Notice";
-                공지사항내용.text = "These are the lines\nfrom the contents up\nto episode 6.\n\nWe will update\nwhen the number of\ndownloads increases!";
                 즐겨찾기.text = "Favorites";
                 subject = "Chainsaw Man Characters sound";
              
@@ -106,8 +104,6 @@ public class MainEnKo : MonoBehaviour
                 파워버튼.text = "Seika";
                 제목.text = "Bocchi the\nRock!";
                 제목.fontSize = 15;
-                공지사항제목.text = "Notice";
-                공지사항내용.text = "These are the lines\nfrom the contents up\nto episode 2.\n\nWe will update\nwhen the number of\ndownloads increases!";
                 즐겨찾기.text = "Favorites";
                 subject = "Bocchi the Rock! Characters sound";
                 break;
@@ -120,6 +116,8 @@ public class MainEnKo : MonoBehaviour
 
         즐겨찾기.text = "즐겨찾기";
         //다른앱보기제거.SetActive(true);
+        공지사항제목.text = "공 지 사 항";
+        공지사항내용.text = 공지사항내용붙여넣기한국어;
         광고팝업텍스트.text = "즐겨찾기는 프리미엄 전용입니다\n\n무료 버전은 입장할 때마다\n동영상 시청이 필요합니다";
         광고팝업텍스트예.text = "동영상 시청(무료)";
         광고팝업텍스트예.fontSize = 15;
@@ -140,6 +138,8 @@ public class MainEnKo : MonoBehaviour
     {
         저장값 = 1;
         //다른앱보기제거.SetActive(false);
+        공지사항제목.text = "Notice";
+        공지사항내용.text = 공지사항내용붙여넣기영어;
         광고팝업텍스트.text = "We're sorry, but this\n feature requires video\n viewing.";
         광고팝업텍스트예.text = "GET FOR FREE (AD)";
         광고팝업텍스트예.fontSize = 13;
@@ -171,8 +171,6 @@ public class MainEnKo : MonoBehaviour
                 히메노버튼.text = "히메노";
                 제목.text = "체인소 맨";
                 제목.fontSize = 22;
-                공지사항제목.text = "공 지 사 항";
-                공지사항내용.text = 공지사항내용붙여넣기한국어;
                 subject = "체인소맨 음성대사모음";
                 break;
             case State.봇치:
@@ -182,8 +180,6 @@ public class MainEnKo : MonoBehaviour
                 파워버튼.text = "세이카";
                 제목.text = "봇치 더 록!";
                 제목.fontSize = 22;
-                공지사항제목.text = "공 지 사 항";
-                공지사항내용.text = "현재 2화까지의 내용에서 \n 나온 대사들 입니다. \n\n다운로드수가 늘어나면\n업데이트하겠습니다!";
                 subject = "봇치 더 록!";
                 break;
             default:
