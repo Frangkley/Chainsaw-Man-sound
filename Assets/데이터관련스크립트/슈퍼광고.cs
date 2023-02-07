@@ -5,6 +5,7 @@ using System;
 using GoogleMobileAds.Api;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
+using GoogleMobileAds.Api.Mediation;
 
 public class 슈퍼광고 : MonoBehaviour {
 
@@ -57,33 +58,8 @@ public class 슈퍼광고 : MonoBehaviour {
         }
         DontDestroyOnLoad(gameObject);
     }
-    public void Start()
-    {
-        //interstitial.OnAdClosed += OnAdClosed;
-        MobileAds.Initialize((initStatus) =>
-        {/*
-            Dictionary<string, AdapterStatus> map = initStatus.getAdapterStatusMap();
-            foreach (KeyValuePair<string, AdapterStatus> keyValuePair in map)
-            {
-                string className = keyValuePair.Key;
-                AdapterStatus status = keyValuePair.Value;
-                switch (status.InitializationState)
-                {
-                    case AdapterState.NotReady:
-                        // The adapter initialization did not complete.
-                        MonoBehaviour.print("Adapter: " + className + " not ready.");
-                        break;
-                    case AdapterState.Ready:
-                        // The adapter was successfully initialized.
-                        MonoBehaviour.print("Adapter: " + className + " is initialized.");
-                        break;
-                }
-            }*/
-            보여줭();
-        });
 
-    }
-    public void 보여줭()
+    public void Start()
     {
         RequestInterstitialAds();
         리퀘스트영상광고();

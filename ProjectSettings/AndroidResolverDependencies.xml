@@ -2,7 +2,7 @@
   <packages>
     <package>androidx.lifecycle:lifecycle-common-java8:2.4.1</package>
     <package>androidx.lifecycle:lifecycle-process:2.4.1</package>
-    <package>com.google.ads.mediation:facebook:6.10.0.0</package>
+    <package>com.google.ads.mediation:facebook:6.12.0.0</package>
     <package>com.google.android.gms:play-services-ads:21.3.0</package>
   </packages>
   <files>
