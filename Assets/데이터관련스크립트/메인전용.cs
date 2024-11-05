@@ -49,6 +49,27 @@ public class 메인전용 : MonoBehaviour
         }
         int n = Random.Range(0, 100);
         int i = PlayerPrefs.GetInt("리뷰");
+        if (n <= 50)
+        {
+            슈퍼광고.Instance().ShowInterstitialAd();
+
+        }
+        else
+        {
+            PlayerPrefs.SetInt("리뷰", i + 1);
+            if (PlayerPrefs.GetInt("리뷰") == 10)
+            {
+                if (PlayerPrefs.GetInt("EnKo") != 0)
+                {
+                    리뷰영어팝업창.SetActive(true);
+                }
+                else
+                {
+                    리뷰한글팝업창.SetActive(true);
+                }
+            }
+        }
+  /*
         if (i < 10)
         {
             if (n <= 30)
@@ -94,6 +115,7 @@ public class 메인전용 : MonoBehaviour
                 }
             }
         }
+        */
     }
 }
 

@@ -131,6 +131,7 @@ public class 슈퍼광고 : MonoBehaviour {
             {
                 즐겨찾기방입장광고();
             }
+            로딩확인();
         }
     }
     public void 리퀘스트영상광고()
@@ -187,7 +188,7 @@ public class 슈퍼광고 : MonoBehaviour {
     }
     private void RequestInterstitialAds()
     {
-        string adID_2 = "ca-app-pub-8583528480029184/7329201811";
+        string adID_2 = 전면광고ID;
 
         // Initialize an InterstitialAd.
         interstitial = new InterstitialAd(adID_2);
@@ -230,7 +231,7 @@ public class 슈퍼광고 : MonoBehaviour {
     }
     public void 즐겨찾기방입장리워드(object sender, Reward args)
     {
-        Invoke("잠시후이동", 0.1f);
+        Invoke(nameof(잠시후이동), 0.1f);
     }
     public void 잠시후이동()
     {
